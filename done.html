@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infinity Verbs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text color for contrast */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            max-width: 500px;
+            width: 100%;
+            padding: 20px;
+            border: 1px solid #333;
+            background: #222; /* Dark grey container background */
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            text-align: center;
+        }
+        h1 {
+            color: #00FFCE;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+        }
+        input {
+            background: #444;
+            color: #fff;
+        }
+        button {
+            background-color: #00FFCE;
+            color: #000;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #009999;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #00FFCE;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="logo.png" alt="Logo">
+        <h1>Enter Your Verb</h1>
+        <input type="text" id="verbInput" placeholder="Type a verb here...">
+        <button onclick="searchVerb()">Search...</button>
+        <div class="result">
+            <p id="present"></p>
+            <p id="past"></p>
+            <p id="pastParticiple"></p>
+        </div>
+        <img src="cast.png" alt="Image">
+    </div>
+
+    <script>
+        const verbs = {
+            "go": { present: "go", past: "went", pastParticiple: "gone" },
+            "write": { present: "write", past: "wrote", pastParticiple: "written" },
+            "come": { present: "come", past: "came", pastParticiple: "come" }
+        };
+
+        function searchVerb() {
+            const input = document.getElementById("verbInput").value.toLowerCase();
+            const present = document.getElementById("present");
+            const past = document.getElementById("past");
+            const pastParticiple = document.getElementById("pastParticiple");
+
+            if (verbs[input]) {
+                present.textContent = `Present: ${verbs[input].present}`;
+                past.textContent = `Past: ${verbs[input].past}`;
+                pastParticiple.textContent = `Past Participle: ${verbs[input].pastParticiple}`;
+            } else {
+                present.textContent = "Can't Found";
+                past.textContent = "The Verb!";
+                pastParticiple.textContent = "Sorry";
+            }
+
+            document.getElementById("verbInput").value = ""; // Clear the input
+        }
+    </script>
+</body>
+</html>
