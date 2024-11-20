@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Infinity Verbs</title>
     <style>
-        /* General Body Styling */
+        /* Same CSS as before */
         body {
             font-family: Arial, sans-serif;
-            background-color: #000; /* Black background */
-            color: #fff; /* White text color */
+            background-color: #000;
+            color: #fff;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -17,43 +17,36 @@
             margin: 0;
         }
 
-        /* Centered Container */
         .container {
             max-width: 500px;
             width: 100%;
             padding: 20px;
             border: 1px solid #333;
-            background: #222; /* Dark grey background */
+            background: #222;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
             text-align: center;
         }
 
-        /* Headings */
         h1 {
             color: #00FFCE;
         }
 
-        /* Input Fields */
-        input {
+        input, button {
             width: 100%;
             padding: 10px;
             margin: 10px 0;
             font-size: 16px;
             border: none;
             border-radius: 4px;
+        }
+
+        input {
             background: #444;
             color: #fff;
         }
 
-        /* Buttons */
         button {
-            width: 100%;
-            padding: 10px;
-            margin: 10px 0;
-            font-size: 16px;
-            border: none;
-            border-radius: 4px;
             background-color: #00FFCE;
             color: #000;
             cursor: pointer;
@@ -63,16 +56,14 @@
             background-color: #009999;
         }
 
-        /* Results Section */
         .result {
             margin-top: 20px;
             font-size: 18px;
             color: #00FFCE;
         }
 
-        /* Images */
         img {
-            max-width: 60%;
+            max-width: 65%;
             height: auto;
             margin: 10px 0;
         }
@@ -93,12 +84,15 @@
     </div>
 
     <script>
-        // Verb data as a JavaScript object
-        const verbs = [
-            { present: "go", past: "went", pastParticiple: "gone" },
-            { present: "write", past: "wrote", pastParticiple: "written" },
-            { present: "come", past: "came", pastParticiple: "come" }
-        ];
+        let verbs = [];
+
+        // Fetch the JSON file
+        fetch('verbs.json')  // Ensure verbs.json is in the same directory as the HTML file
+            .then(response => response.json())
+            .then(data => {
+                verbs = data; // Load the JSON data into the verbs variable
+            })
+            .catch(error => console.error('Error loading JSON:', error));
 
         function searchVerb() {
             const input = document.getElementById("verbInput").value.toLowerCase();
