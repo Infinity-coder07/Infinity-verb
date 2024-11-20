@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+const verbs:[
  {
   "Present": "abash",
   "Past": "abashed",
@@ -5019,5 +5018,4 @@
   "Past": "zoomed",
   "PastParticiple": "zoomed"
  }
-]
-}
+];
