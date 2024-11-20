@@ -1,4 +1,4 @@
-const verbs:[
+const verbs = [
  {
   "Present": "abash",
   "Past": "abashed",
