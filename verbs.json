@@ -1,5020 +1,5021 @@
+
  {
-  "Present": "abash",
-  "Past": "abashed",
-  "PastParticiple": "abashed"
+  "present": "abash",
+  "past": "abashed",
+  "pastParticiple": "abashed"
  },
  {
-  "Present": "abate",
-  "Past": "abated",
-  "PastParticiple": "abated"
+  "present": "abate",
+  "past": "abated",
+  "pastParticiple": "abated"
  },
  {
-  "Present": "abide",
-  "Past": "abode",
-  "PastParticiple": "abode"
+  "present": "abide",
+  "past": "abode",
+  "pastParticiple": "abode"
  },
  {
-  "Present": "absorb",
-  "Past": "absorbed",
-  "PastParticiple": "absorbed"
+  "present": "absorb",
+  "past": "absorbed",
+  "pastParticiple": "absorbed"
  },
  {
-  "Present": "accept",
-  "Past": "accepted",
-  "PastParticiple": "accepted"
+  "present": "accept",
+  "past": "accepted",
+  "pastParticiple": "accepted"
  },
  {
-  "Present": "accompany",
-  "Past": "accompanied",
-  "PastParticiple": "accompanied"
+  "present": "accompany",
+  "past": "accompanied",
+  "pastParticiple": "accompanied"
  },
  {
-  "Present": "ache",
-  "Past": "ached",
-  "PastParticiple": "ached"
+  "present": "ache",
+  "past": "ached",
+  "pastParticiple": "ached"
  },
  {
-  "Present": "achieve",
-  "Past": "achieved",
-  "PastParticiple": "achieved"
+  "present": "achieve",
+  "past": "achieved",
+  "pastParticiple": "achieved"
  },
  {
-  "Present": "acquire",
-  "Past": "acquired",
-  "PastParticiple": "acquired"
+  "present": "acquire",
+  "past": "acquired",
+  "pastParticiple": "acquired"
  },
  {
-  "Present": "act",
-  "Past": "acted",
-  "PastParticiple": "acted"
+  "present": "act",
+  "past": "acted",
+  "pastParticiple": "acted"
  },
  {
-  "Present": "add",
-  "Past": "added",
-  "PastParticiple": "added"
+  "present": "add",
+  "past": "added",
+  "pastParticiple": "added"
  },
  {
-  "Present": "address",
-  "Past": "addressed",
-  "PastParticiple": "addressed"
+  "present": "address",
+  "past": "addressed",
+  "pastParticiple": "addressed"
  },
  {
-  "Present": "adjust",
-  "Past": "adjusted",
-  "PastParticiple": "adjusted"
+  "present": "adjust",
+  "past": "adjusted",
+  "pastParticiple": "adjusted"
  },
  {
-  "Present": "admire",
-  "Past": "admired",
-  "PastParticiple": "admired"
+  "present": "admire",
+  "past": "admired",
+  "pastParticiple": "admired"
  },
  {
-  "Present": "admit",
-  "Past": "admitted",
-  "PastParticiple": "admitted"
+  "present": "admit",
+  "past": "admitted",
+  "pastParticiple": "admitted"
  },
  {
-  "Present": "advise",
-  "Past": "advised",
-  "PastParticiple": "advised"
+  "present": "advise",
+  "past": "advised",
+  "pastParticiple": "advised"
  },
  {
-  "Present": "afford",
-  "Past": "afforded",
-  "PastParticiple": "afforded"
+  "present": "afford",
+  "past": "afforded",
+  "pastParticiple": "afforded"
  },
  {
-  "Present": "agree",
-  "Past": "agreed",
-  "PastParticiple": "agreed"
+  "present": "agree",
+  "past": "agreed",
+  "pastParticiple": "agreed"
  },
  {
-  "Present": "alight",
-  "Past": "alit",
-  "PastParticiple": "alit"
+  "present": "alight",
+  "past": "alit",
+  "pastParticiple": "alit"
  },
  {
-  "Present": "allow",
-  "Past": "allowed",
-  "PastParticiple": "allowed"
+  "present": "allow",
+  "past": "allowed",
+  "pastParticiple": "allowed"
  },
  {
-  "Present": "animate",
-  "Past": "animated",
-  "PastParticiple": "animated"
+  "present": "animate",
+  "past": "animated",
+  "pastParticiple": "animated"
  },
  {
-  "Present": "announce",
-  "Past": "announced",
-  "PastParticiple": "announced"
+  "present": "announce",
+  "past": "announced",
+  "pastParticiple": "announced"
  },
  {
-  "Present": "answer",
-  "Past": "answered",
-  "PastParticiple": "answered"
+  "present": "answer",
+  "past": "answered",
+  "pastParticiple": "answered"
  },
  {
-  "Present": "apologize",
-  "Past": "apologized",
-  "PastParticiple": "apologized"
+  "present": "apologize",
+  "past": "apologized",
+  "pastParticiple": "apologized"
  },
  {
-  "Present": "appear",
-  "Past": "appeared",
-  "PastParticiple": "appeared"
+  "present": "appear",
+  "past": "appeared",
+  "pastParticiple": "appeared"
  },
  {
-  "Present": "applaud",
-  "Past": "applauded",
-  "PastParticiple": "applauded"
+  "present": "applaud",
+  "past": "applauded",
+  "pastParticiple": "applauded"
  },
  {
-  "Present": "apply",
-  "Past": "applied",
-  "PastParticiple": "applied"
+  "present": "apply",
+  "past": "applied",
+  "pastParticiple": "applied"
  },
  {
-  "Present": "approach",
-  "Past": "approached",
-  "PastParticiple": "approached"
+  "present": "approach",
+  "past": "approached",
+  "pastParticiple": "approached"
  },
  {
-  "Present": "approve",
-  "Past": "approved",
-  "PastParticiple": "approved"
+  "present": "approve",
+  "past": "approved",
+  "pastParticiple": "approved"
  },
  {
-  "Present": "argue",
-  "Past": "argued",
-  "PastParticiple": "argued"
+  "present": "argue",
+  "past": "argued",
+  "pastParticiple": "argued"
  },
  {
-  "Present": "arise",
-  "Past": "arose",
-  "PastParticiple": "arisen"
+  "present": "arise",
+  "past": "arose",
+  "pastParticiple": "arisen"
  },
  {
-  "Present": "arrange",
-  "Past": "arranged",
-  "PastParticiple": "arranged"
+  "present": "arrange",
+  "past": "arranged",
+  "pastParticiple": "arranged"
  },
  {
-  "Present": "arrest",
-  "Past": "arrested",
-  "PastParticiple": "arrested"
+  "present": "arrest",
+  "past": "arrested",
+  "pastParticiple": "arrested"
  },
  {
-  "Present": "ask",
-  "Past": "asked",
-  "PastParticiple": "asked"
+  "present": "ask",
+  "past": "asked",
+  "pastParticiple": "asked"
  },
  {
-  "Present": "assert",
-  "Past": "asserted",
-  "PastParticiple": "asserted"
+  "present": "assert",
+  "past": "asserted",
+  "pastParticiple": "asserted"
  },
  {
-  "Present": "assort",
-  "Past": "assorted",
-  "PastParticiple": "assorted"
+  "present": "assort",
+  "past": "assorted",
+  "pastParticiple": "assorted"
  },
  {
-  "Present": "astonish",
-  "Past": "astonished",
-  "PastParticiple": "astonished"
+  "present": "astonish",
+  "past": "astonished",
+  "pastParticiple": "astonished"
  },
  {
-  "Present": "attack",
-  "Past": "attacked",
-  "PastParticiple": "attacked"
+  "present": "attack",
+  "past": "attacked",
+  "pastParticiple": "attacked"
  },
  {
-  "Present": "attend",
-  "Past": "attended",
-  "PastParticiple": "attended"
+  "present": "attend",
+  "past": "attended",
+  "pastParticiple": "attended"
  },
  {
-  "Present": "attract",
-  "Past": "attracted",
-  "PastParticiple": "attracted"
+  "present": "attract",
+  "past": "attracted",
+  "pastParticiple": "attracted"
  },
  {
-  "Present": "audit",
-  "Past": "audited",
-  "PastParticiple": "audited"
+  "present": "audit",
+  "past": "audited",
+  "pastParticiple": "audited"
  },
  {
-  "Present": "avoid",
-  "Past": "avoided",
-  "PastParticiple": "avoided"
+  "present": "avoid",
+  "past": "avoided",
+  "pastParticiple": "avoided"
  },
  {
-  "Present": "awake",
-  "Past": "awoke",
-  "PastParticiple": "awoken"
+  "present": "awake",
+  "past": "awoke",
+  "pastParticiple": "awoken"
  },
  {
-  "Present": "bang",
-  "Past": "banged",
-  "PastParticiple": "banged"
+  "present": "bang",
+  "past": "banged",
+  "pastParticiple": "banged"
  },
  {
-  "Present": "banish",
-  "Past": "banished",
-  "PastParticiple": "banished"
+  "present": "banish",
+  "past": "banished",
+  "pastParticiple": "banished"
  },
  {
-  "Present": "bash",
-  "Past": "bashed",
-  "PastParticiple": "bashed"
+  "present": "bash",
+  "past": "bashed",
+  "pastParticiple": "bashed"
  },
  {
-  "Present": "bat",
-  "Past": "batted",
-  "PastParticiple": "batted"
+  "present": "bat",
+  "past": "batted",
+  "pastParticiple": "batted"
  },
  {
-  "Present": "be (am,are)",
-  "Past": "was \/ were",
-  "PastParticiple": "been"
+  "present": "be (am,are)",
+  "past": "was \/ were",
+  "pastParticiple": "been"
  },
  {
-  "Present": "bear",
-  "Past": "bore",
-  "PastParticiple": "born"
+  "present": "bear",
+  "past": "bore",
+  "pastParticiple": "born"
  },
  {
-  "Present": "bear",
-  "Past": "bore",
-  "PastParticiple": "borne"
+  "present": "bear",
+  "past": "bore",
+  "pastParticiple": "borne"
  },
  {
-  "Present": "beat",
-  "Past": "beat",
-  "PastParticiple": "beaten"
+  "present": "beat",
+  "past": "beat",
+  "pastParticiple": "beaten"
  },
  {
-  "Present": "beautify",
-  "Past": "beautified",
-  "PastParticiple": "beautified"
+  "present": "beautify",
+  "past": "beautified",
+  "pastParticiple": "beautified"
  },
  null,
  null,
  {
-  "Present": "become",
-  "Past": "became",
-  "PastParticiple": "become"
+  "present": "become",
+  "past": "became",
+  "pastParticiple": "become"
  },
  {
-  "Present": "befall",
-  "Past": "befell",
-  "PastParticiple": "befallen"
+  "present": "befall",
+  "past": "befell",
+  "pastParticiple": "befallen"
  },
  {
-  "Present": "beg",
-  "Past": "begged",
-  "PastParticiple": "begged"
+  "present": "beg",
+  "past": "begged",
+  "pastParticiple": "begged"
  },
  {
-  "Present": "begin",
-  "Past": "began",
-  "PastParticiple": "begun"
+  "present": "begin",
+  "past": "began",
+  "pastParticiple": "begun"
  },
  {
-  "Present": "behave",
-  "Past": "behaved",
-  "PastParticiple": "behaved"
+  "present": "behave",
+  "past": "behaved",
+  "pastParticiple": "behaved"
  },
  {
-  "Present": "behold",
-  "Past": "beheld",
-  "PastParticiple": "beheld"
+  "present": "behold",
+  "past": "beheld",
+  "pastParticiple": "beheld"
  },
  {
-  "Present": "believe",
-  "Past": "believed",
-  "PastParticiple": "believed"
+  "present": "believe",
+  "past": "believed",
+  "pastParticiple": "believed"
  },
  {
-  "Present": "belong",
-  "Past": "belonged",
-  "PastParticiple": "belonged"
+  "present": "belong",
+  "past": "belonged",
+  "pastParticiple": "belonged"
  },
  {
-  "Present": "bend",
-  "Past": "bent",
-  "PastParticiple": "bent"
+  "present": "bend",
+  "past": "bent",
+  "pastParticiple": "bent"
  },
  {
-  "Present": "bereave",
-  "Past": "bereft",
-  "PastParticiple": "bereft"
+  "present": "bereave",
+  "past": "bereft",
+  "pastParticiple": "bereft"
  },
  {
-  "Present": "beseech",
-  "Past": "besought",
-  "PastParticiple": "besought"
+  "present": "beseech",
+  "past": "besought",
+  "pastParticiple": "besought"
  },
  {
-  "Present": "bet",
-  "Past": "bet",
-  "PastParticiple": "bet"
+  "present": "bet",
+  "past": "bet",
+  "pastParticiple": "bet"
  },
  {
-  "Present": "betray",
-  "Past": "betrayed",
-  "PastParticiple": "betrayed"
+  "present": "betray",
+  "past": "betrayed",
+  "pastParticiple": "betrayed"
  },
  {
-  "Present": "bid",
-  "Past": "bade",
-  "PastParticiple": "bidden"
+  "present": "bid",
+  "past": "bade",
+  "pastParticiple": "bidden"
  },
  {
-  "Present": "bid",
-  "Past": "bid",
-  "PastParticiple": "bid"
+  "present": "bid",
+  "past": "bid",
+  "pastParticiple": "bid"
  },
  {
-  "Present": "bind",
-  "Past": "bound",
-  "PastParticiple": "bound"
+  "present": "bind",
+  "past": "bound",
+  "pastParticiple": "bound"
  },
  {
-  "Present": "bite",
-  "Past": "bit",
-  "PastParticiple": "bitten"
+  "present": "bite",
+  "past": "bit",
+  "pastParticiple": "bitten"
  },
  {
-  "Present": "bleed",
-  "Past": "bled",
-  "PastParticiple": "bled"
+  "present": "bleed",
+  "past": "bled",
+  "pastParticiple": "bled"
  },
  {
-  "Present": "bless",
-  "Past": "blessed",
-  "PastParticiple": "blessed"
+  "present": "bless",
+  "past": "blessed",
+  "pastParticiple": "blessed"
  },
  {
-  "Present": "blossom",
-  "Past": "blossomed",
-  "PastParticiple": "blossomed"
+  "present": "blossom",
+  "past": "blossomed",
+  "pastParticiple": "blossomed"
  },
  {
-  "Present": "blow",
-  "Past": "blew",
-  "PastParticiple": "blown"
+  "present": "blow",
+  "past": "blew",
+  "pastParticiple": "blown"
  },
  {
-  "Present": "blur",
-  "Past": "blurred",
-  "PastParticiple": "blurred"
+  "present": "blur",
+  "past": "blurred",
+  "pastParticiple": "blurred"
  },
  {
-  "Present": "blush",
-  "Past": "blushed",
-  "PastParticiple": "blushed"
+  "present": "blush",
+  "past": "blushed",
+  "pastParticiple": "blushed"
  },
  {
-  "Present": "board",
-  "Past": "boarded",
-  "PastParticiple": "boarded"
+  "present": "board",
+  "past": "boarded",
+  "pastParticiple": "boarded"
  },
  {
-  "Present": "boast",
-  "Past": "boasted",
-  "PastParticiple": "boasted"
+  "present": "boast",
+  "past": "boasted",
+  "pastParticiple": "boasted"
  },
  {
-  "Present": "boil",
-  "Past": "boiled",
-  "PastParticiple": "boiled"
+  "present": "boil",
+  "past": "boiled",
+  "pastParticiple": "boiled"
  },
  {
-  "Present": "bow",
-  "Past": "bowed",
-  "PastParticiple": "bowed"
+  "present": "bow",
+  "past": "bowed",
+  "pastParticiple": "bowed"
  },
  {
-  "Present": "box",
-  "Past": "boxed",
-  "PastParticiple": "boxed"
+  "present": "box",
+  "past": "boxed",
+  "pastParticiple": "boxed"
  },
  {
-  "Present": "bray",
-  "Past": "brayed",
-  "PastParticiple": "brayed"
+  "present": "bray",
+  "past": "brayed",
+  "pastParticiple": "brayed"
  },
  {
-  "Present": "break",
-  "Past": "broke",
-  "PastParticiple": "broken"
+  "present": "break",
+  "past": "broke",
+  "pastParticiple": "broken"
  },
  {
-  "Present": "breathe",
-  "Past": "breathed",
-  "PastParticiple": "breathed"
+  "present": "breathe",
+  "past": "breathed",
+  "pastParticiple": "breathed"
  },
  {
-  "Present": "breed",
-  "Past": "bred",
-  "PastParticiple": "bred"
+  "present": "breed",
+  "past": "bred",
+  "pastParticiple": "bred"
  },
  {
-  "Present": "bring",
-  "Past": "brought",
-  "PastParticiple": "brought"
+  "present": "bring",
+  "past": "brought",
+  "pastParticiple": "brought"
  },
  {
-  "Present": "broadcast",
-  "Past": "broadcast",
-  "PastParticiple": "broadcast"
+  "present": "broadcast",
+  "past": "broadcast",
+  "pastParticiple": "broadcast"
  },
  {
-  "Present": "brush",
-  "Past": "brushed",
-  "PastParticiple": "brushed"
+  "present": "brush",
+  "past": "brushed",
+  "pastParticiple": "brushed"
  },
  {
-  "Present": "build",
-  "Past": "built",
-  "PastParticiple": "built"
+  "present": "build",
+  "past": "built",
+  "pastParticiple": "built"
  },
  {
-  "Present": "burn",
-  "Past": "burnt",
-  "PastParticiple": "burnt"
+  "present": "burn",
+  "past": "burnt",
+  "pastParticiple": "burnt"
  },
  {
-  "Present": "burst",
-  "Past": "burst",
-  "PastParticiple": "burst"
+  "present": "burst",
+  "past": "burst",
+  "pastParticiple": "burst"
  },
  {
-  "Present": "bury",
-  "Past": "buried",
-  "PastParticiple": "buried"
+  "present": "bury",
+  "past": "buried",
+  "pastParticiple": "buried"
  },
  {
-  "Present": "bust",
-  "Past": "bust",
-  "PastParticiple": "bust"
+  "present": "bust",
+  "past": "bust",
+  "pastParticiple": "bust"
  },
  {
-  "Present": "buy",
-  "Past": "bought",
-  "PastParticiple": "bought"
+  "present": "buy",
+  "past": "bought",
+  "pastParticiple": "bought"
  },
  {
-  "Present": "buzz",
-  "Past": "buzzed",
-  "PastParticiple": "buzzed"
+  "present": "buzz",
+  "past": "buzzed",
+  "pastParticiple": "buzzed"
  },
  {
-  "Present": "calculate",
-  "Past": "calculated",
-  "PastParticiple": "calculated"
+  "present": "calculate",
+  "past": "calculated",
+  "pastParticiple": "calculated"
  },
  {
-  "Present": "call",
-  "Past": "called",
-  "PastParticiple": "called"
+  "present": "call",
+  "past": "called",
+  "pastParticiple": "called"
  },
  {
-  "Present": "canvass",
-  "Past": "canvassed",
-  "PastParticiple": "canvassed"
+  "present": "canvass",
+  "past": "canvassed",
+  "pastParticiple": "canvassed"
  },
  {
-  "Present": "capture",
-  "Past": "captured",
-  "PastParticiple": "captured"
+  "present": "capture",
+  "past": "captured",
+  "pastParticiple": "captured"
  },
  {
-  "Present": "caress",
-  "Past": "caressed",
-  "PastParticiple": "caressed"
+  "present": "caress",
+  "past": "caressed",
+  "pastParticiple": "caressed"
  },
  {
-  "Present": "carry",
-  "Past": "carried",
-  "PastParticiple": "carried"
+  "present": "carry",
+  "past": "carried",
+  "pastParticiple": "carried"
  },
  {
-  "Present": "carve",
-  "Past": "carved",
-  "PastParticiple": "carved"
+  "present": "carve",
+  "past": "carved",
+  "pastParticiple": "carved"
  },
  {
-  "Present": "cash",
-  "Past": "cashed",
-  "PastParticiple": "cashed"
+  "present": "cash",
+  "past": "cashed",
+  "pastParticiple": "cashed"
  },
  null,
  null,
  {
-  "Present": "cast",
-  "Past": "cast",
-  "PastParticiple": "cast"
+  "present": "cast",
+  "past": "cast",
+  "pastParticiple": "cast"
  },
  {
-  "Present": "catch",
-  "Past": "caught",
-  "PastParticiple": "caught"
+  "present": "catch",
+  "past": "caught",
+  "pastParticiple": "caught"
  },
  {
-  "Present": "cause",
-  "Past": "caused",
-  "PastParticiple": "caused"
+  "present": "cause",
+  "past": "caused",
+  "pastParticiple": "caused"
  },
  {
-  "Present": "cease",
-  "Past": "ceased",
-  "PastParticiple": "ceased"
+  "present": "cease",
+  "past": "ceased",
+  "pastParticiple": "ceased"
  },
  {
-  "Present": "celebrate",
-  "Past": "celebrated",
-  "PastParticiple": "celebrated"
+  "present": "celebrate",
+  "past": "celebrated",
+  "pastParticiple": "celebrated"
  },
  {
-  "Present": "challenge",
-  "Past": "challenged",
-  "PastParticiple": "challenged"
+  "present": "challenge",
+  "past": "challenged",
+  "pastParticiple": "challenged"
  },
  {
-  "Present": "change",
-  "Past": "changed",
-  "PastParticiple": "changed"
+  "present": "change",
+  "past": "changed",
+  "pastParticiple": "changed"
  },
  {
-  "Present": "charge",
-  "Past": "charged",
-  "PastParticiple": "charged"
+  "present": "charge",
+  "past": "charged",
+  "pastParticiple": "charged"
  },
  {
-  "Present": "chase",
-  "Past": "chased",
-  "PastParticiple": "chased"
+  "present": "chase",
+  "past": "chased",
+  "pastParticiple": "chased"
  },
  {
-  "Present": "chat",
-  "Past": "chatted",
-  "PastParticiple": "chatted"
+  "present": "chat",
+  "past": "chatted",
+  "pastParticiple": "chatted"
  },
  {
-  "Present": "check",
-  "Past": "checked",
-  "PastParticiple": "checked"
+  "present": "check",
+  "past": "checked",
+  "pastParticiple": "checked"
  },
  {
-  "Present": "cheer",
-  "Past": "cheered",
-  "PastParticiple": "cheered"
+  "present": "cheer",
+  "past": "cheered",
+  "pastParticiple": "cheered"
  },
  {
-  "Present": "chew",
-  "Past": "chewed",
-  "PastParticiple": "chewed"
+  "present": "chew",
+  "past": "chewed",
+  "pastParticiple": "chewed"
  },
  {
-  "Present": "chide",
-  "Past": "chid",
-  "PastParticiple": "chid\/chidden"
+  "present": "chide",
+  "past": "chid",
+  "pastParticiple": "chid\/chidden"
  },
  {
-  "Present": "chip",
-  "Past": "chipped",
-  "PastParticiple": "chipped"
+  "present": "chip",
+  "past": "chipped",
+  "pastParticiple": "chipped"
  },
  {
-  "Present": "choke",
-  "Past": "choked",
-  "PastParticiple": "choked"
+  "present": "choke",
+  "past": "choked",
+  "pastParticiple": "choked"
  },
  {
-  "Present": "choose",
-  "Past": "chose",
-  "PastParticiple": "chosen"
+  "present": "choose",
+  "past": "chose",
+  "pastParticiple": "chosen"
  },
  {
-  "Present": "classify",
-  "Past": "classified",
-  "PastParticiple": "classified"
+  "present": "classify",
+  "past": "classified",
+  "pastParticiple": "classified"
  },
  {
-  "Present": "clean",
-  "Past": "cleaned",
-  "PastParticiple": "cleaned"
+  "present": "clean",
+  "past": "cleaned",
+  "pastParticiple": "cleaned"
  },
  {
-  "Present": "cleave",
-  "Past": "clove\/cleft",
-  "PastParticiple": "cloven\/cleft"
+  "present": "cleave",
+  "past": "clove\/cleft",
+  "pastParticiple": "cloven\/cleft"
  },
  {
-  "Present": "click",
-  "Past": "clicked",
-  "PastParticiple": "clicked"
+  "present": "click",
+  "past": "clicked",
+  "pastParticiple": "clicked"
  },
  {
-  "Present": "climb",
-  "Past": "climbed",
-  "PastParticiple": "climbed"
+  "present": "climb",
+  "past": "climbed",
+  "pastParticiple": "climbed"
  },
  {
-  "Present": "cling",
-  "Past": "clung",
-  "PastParticiple": "clung"
+  "present": "cling",
+  "past": "clung",
+  "pastParticiple": "clung"
  },
  {
-  "Present": "close",
-  "Past": "closed",
-  "PastParticiple": "closed"
+  "present": "close",
+  "past": "closed",
+  "pastParticiple": "closed"
  },
  {
-  "Present": "clothe",
-  "Past": "clad",
-  "PastParticiple": "clad"
+  "present": "clothe",
+  "past": "clad",
+  "pastParticiple": "clad"
  },
  {
-  "Present": "clutch",
-  "Past": "clutched",
-  "PastParticiple": "clutched"
+  "present": "clutch",
+  "past": "clutched",
+  "pastParticiple": "clutched"
  },
  {
-  "Present": "collapse",
-  "Past": "collapsed",
-  "PastParticiple": "collapsed"
+  "present": "collapse",
+  "past": "collapsed",
+  "pastParticiple": "collapsed"
  },
  {
-  "Present": "collect",
-  "Past": "collected",
-  "PastParticiple": "collected"
+  "present": "collect",
+  "past": "collected",
+  "pastParticiple": "collected"
  },
  {
-  "Present": "colour",
-  "Past": "coloured",
-  "PastParticiple": "coloured"
+  "present": "colour",
+  "past": "coloured",
+  "pastParticiple": "coloured"
  },
  {
-  "Present": "come",
-  "Past": "came",
-  "PastParticiple": "come"
+  "present": "come",
+  "past": "came",
+  "pastParticiple": "come"
  },
  {
-  "Present": "comment",
-  "Past": "commented",
-  "PastParticiple": "commented"
+  "present": "comment",
+  "past": "commented",
+  "pastParticiple": "commented"
  },
  {
-  "Present": "compare",
-  "Past": "compared",
-  "PastParticiple": "compared"
+  "present": "compare",
+  "past": "compared",
+  "pastParticiple": "compared"
  },
  {
-  "Present": "compel",
-  "Past": "compelled",
-  "PastParticiple": "compelled"
+  "present": "compel",
+  "past": "compelled",
+  "pastParticiple": "compelled"
  },
  {
-  "Present": "compete",
-  "Past": "competed",
-  "PastParticiple": "competed"
+  "present": "compete",
+  "past": "competed",
+  "pastParticiple": "competed"
  },
  {
-  "Present": "complain",
-  "Past": "complained",
-  "PastParticiple": "complained"
+  "present": "complain",
+  "past": "complained",
+  "pastParticiple": "complained"
  },
  {
-  "Present": "complete",
-  "Past": "completed",
-  "PastParticiple": "completed"
+  "present": "complete",
+  "past": "completed",
+  "pastParticiple": "completed"
  },
  {
-  "Present": "conclude",
-  "Past": "concluded",
-  "PastParticiple": "concluded"
+  "present": "conclude",
+  "past": "concluded",
+  "pastParticiple": "concluded"
  },
  {
-  "Present": "conduct",
-  "Past": "conducted",
-  "PastParticiple": "conducted"
+  "present": "conduct",
+  "past": "conducted",
+  "pastParticiple": "conducted"
  },
  {
-  "Present": "confess",
-  "Past": "confessed",
-  "PastParticiple": "confessed"
+  "present": "confess",
+  "past": "confessed",
+  "pastParticiple": "confessed"
  },
  {
-  "Present": "confine",
-  "Past": "confined",
-  "PastParticiple": "confined"
+  "present": "confine",
+  "past": "confined",
+  "pastParticiple": "confined"
  },
  {
-  "Present": "confiscate",
-  "Past": "confiscated",
-  "PastParticiple": "confiscated"
+  "present": "confiscate",
+  "past": "confiscated",
+  "pastParticiple": "confiscated"
  },
  {
-  "Present": "confuse",
-  "Past": "confused",
-  "PastParticiple": "confused"
+  "present": "confuse",
+  "past": "confused",
+  "pastParticiple": "confused"
  },
  {
-  "Present": "congratulate",
-  "Past": "congratulated",
-  "PastParticiple": "congratulated"
+  "present": "congratulate",
+  "past": "congratulated",
+  "pastParticiple": "congratulated"
  },
  {
-  "Present": "connect",
-  "Past": "connected",
-  "PastParticiple": "connected"
+  "present": "connect",
+  "past": "connected",
+  "pastParticiple": "connected"
  },
  {
-  "Present": "connote",
-  "Past": "connoted",
-  "PastParticiple": "connoted"
+  "present": "connote",
+  "past": "connoted",
+  "pastParticiple": "connoted"
  },
  {
-  "Present": "conquer",
-  "Past": "conquered",
-  "PastParticiple": "conquered"
+  "present": "conquer",
+  "past": "conquered",
+  "pastParticiple": "conquered"
  },
  {
-  "Present": "consecrate",
-  "Past": "consecrated",
-  "PastParticiple": "consecrated"
+  "present": "consecrate",
+  "past": "consecrated",
+  "pastParticiple": "consecrated"
  },
  {
-  "Present": "consent",
-  "Past": "consented",
-  "PastParticiple": "consented"
+  "present": "consent",
+  "past": "consented",
+  "pastParticiple": "consented"
  },
  {
-  "Present": "conserve",
-  "Past": "conserved",
-  "PastParticiple": "conserved"
+  "present": "conserve",
+  "past": "conserved",
+  "pastParticiple": "conserved"
  },
  {
-  "Present": "consider",
-  "Past": "considered",
-  "PastParticiple": "considered"
+  "present": "consider",
+  "past": "considered",
+  "pastParticiple": "considered"
  },
  {
-  "Present": "consign",
-  "Past": "consigned",
-  "PastParticiple": "consigned"
+  "present": "consign",
+  "past": "consigned",
+  "pastParticiple": "consigned"
  },
  {
-  "Present": "consist",
-  "Past": "consisted",
-  "PastParticiple": "consisted"
+  "present": "consist",
+  "past": "consisted",
+  "pastParticiple": "consisted"
  },
  null,
  null,
  {
-  "Present": "console",
-  "Past": "consoled",
-  "PastParticiple": "consoled"
+  "present": "console",
+  "past": "consoled",
+  "pastParticiple": "consoled"
  },
  {
-  "Present": "consort",
-  "Past": "consorted",
-  "PastParticiple": "consorted"
+  "present": "consort",
+  "past": "consorted",
+  "pastParticiple": "consorted"
  },
  {
-  "Present": "conspire",
-  "Past": "conspired",
-  "PastParticiple": "conspired"
+  "present": "conspire",
+  "past": "conspired",
+  "pastParticiple": "conspired"
  },
  {
-  "Present": "constitute",
-  "Past": "constituted",
-  "PastParticiple": "constituted"
+  "present": "constitute",
+  "past": "constituted",
+  "pastParticiple": "constituted"
  },
  {
-  "Present": "constrain",
-  "Past": "constrained",
-  "PastParticiple": "constrained"
+  "present": "constrain",
+  "past": "constrained",
+  "pastParticiple": "constrained"
  },
  {
-  "Present": "construct",
-  "Past": "constructed",
-  "PastParticiple": "constructed"
+  "present": "construct",
+  "past": "constructed",
+  "pastParticiple": "constructed"
  },
  {
-  "Present": "construe",
-  "Past": "construed",
-  "PastParticiple": "construed"
+  "present": "construe",
+  "past": "construed",
+  "pastParticiple": "construed"
  },
  {
-  "Present": "consult",
-  "Past": "consulted",
-  "PastParticiple": "consulted"
+  "present": "consult",
+  "past": "consulted",
+  "pastParticiple": "consulted"
  },
  {
-  "Present": "contain",
-  "Past": "contained",
-  "PastParticiple": "contained"
+  "present": "contain",
+  "past": "contained",
+  "pastParticiple": "contained"
  },
  {
-  "Present": "contemn",
-  "Past": "contemned",
-  "PastParticiple": "contemned"
+  "present": "contemn",
+  "past": "contemned",
+  "pastParticiple": "contemned"
  },
  {
-  "Present": "contend",
-  "Past": "contended",
-  "PastParticiple": "contended"
+  "present": "contend",
+  "past": "contended",
+  "pastParticiple": "contended"
  },
  {
-  "Present": "contest",
-  "Past": "contested",
-  "PastParticiple": "contested"
+  "present": "contest",
+  "past": "contested",
+  "pastParticiple": "contested"
  },
  {
-  "Present": "continue",
-  "Past": "continued",
-  "PastParticiple": "continued"
+  "present": "continue",
+  "past": "continued",
+  "pastParticiple": "continued"
  },
  {
-  "Present": "contract",
-  "Past": "contracted",
-  "PastParticiple": "contracted"
+  "present": "contract",
+  "past": "contracted",
+  "pastParticiple": "contracted"
  },
  {
-  "Present": "contradict",
-  "Past": "contradicted",
-  "PastParticiple": "contradicted"
+  "present": "contradict",
+  "past": "contradicted",
+  "pastParticiple": "contradicted"
  },
  {
-  "Present": "contrast",
-  "Past": "contrasted",
-  "PastParticiple": "contrasted"
+  "present": "contrast",
+  "past": "contrasted",
+  "pastParticiple": "contrasted"
  },
  {
-  "Present": "contribute",
-  "Past": "contributed",
-  "PastParticiple": "contributed"
+  "present": "contribute",
+  "past": "contributed",
+  "pastParticiple": "contributed"
  },
  {
-  "Present": "contrive",
-  "Past": "contrived",
-  "PastParticiple": "contrived"
+  "present": "contrive",
+  "past": "contrived",
+  "pastParticiple": "contrived"
  },
  {
-  "Present": "control",
-  "Past": "controlled",
-  "PastParticiple": "controlled"
+  "present": "control",
+  "past": "controlled",
+  "pastParticiple": "controlled"
  },
  {
-  "Present": "convene",
-  "Past": "convened",
-  "PastParticiple": "convened"
+  "present": "convene",
+  "past": "convened",
+  "pastParticiple": "convened"
  },
  {
-  "Present": "converge",
-  "Past": "converged",
-  "PastParticiple": "converged"
+  "present": "converge",
+  "past": "converged",
+  "pastParticiple": "converged"
  },
  {
-  "Present": "converse",
-  "Past": "conversed",
-  "PastParticiple": "conversed"
+  "present": "converse",
+  "past": "conversed",
+  "pastParticiple": "conversed"
  },
  {
-  "Present": "convert",
-  "Past": "converted",
-  "PastParticiple": "converted"
+  "present": "convert",
+  "past": "converted",
+  "pastParticiple": "converted"
  },
  {
-  "Present": "convey",
-  "Past": "conveyed",
-  "PastParticiple": "conveyed"
+  "present": "convey",
+  "past": "conveyed",
+  "pastParticiple": "conveyed"
  },
  {
-  "Present": "convict",
-  "Past": "convicted",
-  "PastParticiple": "convicted"
+  "present": "convict",
+  "past": "convicted",
+  "pastParticiple": "convicted"
  },
  {
-  "Present": "convince",
-  "Past": "convinced",
-  "PastParticiple": "convinced"
+  "present": "convince",
+  "past": "convinced",
+  "pastParticiple": "convinced"
  },
  {
-  "Present": "coo",
-  "Past": "cooed",
-  "PastParticiple": "cooed"
+  "present": "coo",
+  "past": "cooed",
+  "pastParticiple": "cooed"
  },
  {
-  "Present": "cook",
-  "Past": "cooked",
-  "PastParticiple": "cooked"
+  "present": "cook",
+  "past": "cooked",
+  "pastParticiple": "cooked"
  },
  {
-  "Present": "cool",
-  "Past": "cooled",
-  "PastParticiple": "cooled"
+  "present": "cool",
+  "past": "cooled",
+  "pastParticiple": "cooled"
  },
  {
-  "Present": "co-operate",
-  "Past": "co-operated",
-  "PastParticiple": "co-operated"
+  "present": "co-operate",
+  "past": "co-operated",
+  "pastParticiple": "co-operated"
  },
  {
-  "Present": "cope",
-  "Past": "coped",
-  "PastParticiple": "cope"
+  "present": "cope",
+  "past": "coped",
+  "pastParticiple": "cope"
  },
  {
-  "Present": "copy",
-  "Past": "copied",
-  "PastParticiple": "copied"
+  "present": "copy",
+  "past": "copied",
+  "pastParticiple": "copied"
  },
  {
-  "Present": "correct",
-  "Past": "corrected",
-  "PastParticiple": "corrected"
+  "present": "correct",
+  "past": "corrected",
+  "pastParticiple": "corrected"
  },
  {
-  "Present": "correspond",
-  "Past": "corresponded",
-  "PastParticiple": "corresponded"
+  "present": "correspond",
+  "past": "corresponded",
+  "pastParticiple": "corresponded"
  },
  {
-  "Present": "corrode",
-  "Past": "corroded",
-  "PastParticiple": "corroded"
+  "present": "corrode",
+  "past": "corroded",
+  "pastParticiple": "corroded"
  },
  {
-  "Present": "corrupt",
-  "Past": "corrupted",
-  "PastParticiple": "corrupted"
+  "present": "corrupt",
+  "past": "corrupted",
+  "pastParticiple": "corrupted"
  },
  {
-  "Present": "cost",
-  "Past": "cost",
-  "PastParticiple": "cost"
+  "present": "cost",
+  "past": "cost",
+  "pastParticiple": "cost"
  },
  {
-  "Present": "cough",
-  "Past": "coughed",
-  "PastParticiple": "coughed"
+  "present": "cough",
+  "past": "coughed",
+  "pastParticiple": "coughed"
  },
  {
-  "Present": "counsel",
-  "Past": "counselled",
-  "PastParticiple": "counselled"
+  "present": "counsel",
+  "past": "counselled",
+  "pastParticiple": "counselled"
  },
  {
-  "Present": "count",
-  "Past": "counted",
-  "PastParticiple": "counted"
+  "present": "count",
+  "past": "counted",
+  "pastParticiple": "counted"
  },
  {
-  "Present": "course",
-  "Past": "coursed",
-  "PastParticiple": "coursed"
+  "present": "course",
+  "past": "coursed",
+  "pastParticiple": "coursed"
  },
  {
-  "Present": "cover",
-  "Past": "covered",
-  "PastParticiple": "covered"
+  "present": "cover",
+  "past": "covered",
+  "pastParticiple": "covered"
  },
  {
-  "Present": "cower",
-  "Past": "cowered",
-  "PastParticiple": "cowered"
+  "present": "cower",
+  "past": "cowered",
+  "pastParticiple": "cowered"
  },
  {
-  "Present": "crack",
-  "Past": "cracked",
-  "PastParticiple": "cracked"
+  "present": "crack",
+  "past": "cracked",
+  "pastParticiple": "cracked"
  },
  {
-  "Present": "crackle",
-  "Past": "crackled",
-  "PastParticiple": "crackled"
+  "present": "crackle",
+  "past": "crackled",
+  "pastParticiple": "crackled"
  },
  {
-  "Present": "crash",
-  "Past": "crashed",
-  "PastParticiple": "crashed"
+  "present": "crash",
+  "past": "crashed",
+  "pastParticiple": "crashed"
  },
  {
-  "Present": "crave",
-  "Past": "craved",
-  "PastParticiple": "craved"
+  "present": "crave",
+  "past": "craved",
+  "pastParticiple": "craved"
  },
  {
-  "Present": "create",
-  "Past": "created",
-  "PastParticiple": "created"
+  "present": "create",
+  "past": "created",
+  "pastParticiple": "created"
  },
  {
-  "Present": "creep",
-  "Past": "crept",
-  "PastParticiple": "crept"
+  "present": "creep",
+  "past": "crept",
+  "pastParticiple": "crept"
  },
  {
-  "Present": "crib",
-  "Past": "cribbed",
-  "PastParticiple": "cribbed"
+  "present": "crib",
+  "past": "cribbed",
+  "pastParticiple": "cribbed"
  },
  {
-  "Present": "cross",
-  "Past": "crossed",
-  "PastParticiple": "crossed"
+  "present": "cross",
+  "past": "crossed",
+  "pastParticiple": "crossed"
  },
  {
-  "Present": "crowd",
-  "Past": "crowded",
-  "PastParticiple": "crowded"
+  "present": "crowd",
+  "past": "crowded",
+  "pastParticiple": "crowded"
  },
  {
-  "Present": "crush",
-  "Past": "crushed",
-  "PastParticiple": "crushed"
+  "present": "crush",
+  "past": "crushed",
+  "pastParticiple": "crushed"
  },
  {
-  "Present": "cry",
-  "Past": "cried",
-  "PastParticiple": "cried"
+  "present": "cry",
+  "past": "cried",
+  "pastParticiple": "cried"
  },
  {
-  "Present": "curb",
-  "Past": "curbed",
-  "PastParticiple": "curbed"
+  "present": "curb",
+  "past": "curbed",
+  "pastParticiple": "curbed"
  },
  {
-  "Present": "cure",
-  "Past": "cured",
-  "PastParticiple": "cured"
+  "present": "cure",
+  "past": "cured",
+  "pastParticiple": "cured"
  },
  {
-  "Present": "curve",
-  "Past": "curved",
-  "PastParticiple": "curved"
+  "present": "curve",
+  "past": "curved",
+  "pastParticiple": "curved"
  },
  {
-  "Present": "cut",
-  "Past": "cut",
-  "PastParticiple": "cut"
+  "present": "cut",
+  "past": "cut",
+  "pastParticiple": "cut"
  },
  {
-  "Present": "cycle",
-  "Past": "cycled",
-  "PastParticiple": "cycled"
+  "present": "cycle",
+  "past": "cycled",
+  "pastParticiple": "cycled"
  },
  {
-  "Present": "damage",
-  "Past": "damaged",
-  "PastParticiple": "damaged"
+  "present": "damage",
+  "past": "damaged",
+  "pastParticiple": "damaged"
  },
  {
-  "Present": "damp",
-  "Past": "damped",
-  "PastParticiple": "damped"
+  "present": "damp",
+  "past": "damped",
+  "pastParticiple": "damped"
  },
  {
-  "Present": "dance",
-  "Past": "danced",
-  "PastParticiple": "danced"
+  "present": "dance",
+  "past": "danced",
+  "pastParticiple": "danced"
  },
  {
-  "Present": "dare",
-  "Past": "dared",
-  "PastParticiple": "dared"
+  "present": "dare",
+  "past": "dared",
+  "pastParticiple": "dared"
  },
  {
-  "Present": "dash",
-  "Past": "dashed",
-  "PastParticiple": "dashed"
+  "present": "dash",
+  "past": "dashed",
+  "pastParticiple": "dashed"
  },
  {
-  "Present": "dazzle",
-  "Past": "dazzled",
-  "PastParticiple": "dazzled"
+  "present": "dazzle",
+  "past": "dazzled",
+  "pastParticiple": "dazzled"
  },
  {
-  "Present": "deal",
-  "Past": "dealt",
-  "PastParticiple": "dealt"
+  "present": "deal",
+  "past": "dealt",
+  "pastParticiple": "dealt"
  },
  {
-  "Present": "decay",
-  "Past": "decayed",
-  "PastParticiple": "decayed"
+  "present": "decay",
+  "past": "decayed",
+  "pastParticiple": "decayed"
  },
  {
-  "Present": "decide",
-  "Past": "decided",
-  "PastParticiple": "decided"
+  "present": "decide",
+  "past": "decided",
+  "pastParticiple": "decided"
  },
  {
-  "Present": "declare",
-  "Past": "declared",
-  "PastParticiple": "declared"
+  "present": "declare",
+  "past": "declared",
+  "pastParticiple": "declared"
  },
  {
-  "Present": "decorate",
-  "Past": "decorated",
-  "PastParticiple": "decorated"
+  "present": "decorate",
+  "past": "decorated",
+  "pastParticiple": "decorated"
  },
  {
-  "Present": "decrease",
-  "Past": "decreased",
-  "PastParticiple": "decreased"
+  "present": "decrease",
+  "past": "decreased",
+  "pastParticiple": "decreased"
  },
  {
-  "Present": "dedicate",
-  "Past": "dedicated",
-  "PastParticiple": "dedicated"
+  "present": "dedicate",
+  "past": "dedicated",
+  "pastParticiple": "dedicated"
  },
  {
-  "Present": "delay",
-  "Past": "delayed",
-  "PastParticiple": "delayed"
+  "present": "delay",
+  "past": "delayed",
+  "pastParticiple": "delayed"
  },
  {
-  "Present": "delete",
-  "Past": "deleted",
-  "PastParticiple": "deleted"
+  "present": "delete",
+  "past": "deleted",
+  "pastParticiple": "deleted"
  },
  {
-  "Present": "deny",
-  "Past": "denied",
-  "PastParticiple": "denied"
+  "present": "deny",
+  "past": "denied",
+  "pastParticiple": "denied"
  },
  {
-  "Present": "depend",
-  "Past": "depended",
-  "PastParticiple": "depended"
+  "present": "depend",
+  "past": "depended",
+  "pastParticiple": "depended"
  },
  {
-  "Present": "deprive",
-  "Past": "deprived",
-  "PastParticiple": "deprived"
+  "present": "deprive",
+  "past": "deprived",
+  "pastParticiple": "deprived"
  },
  {
-  "Present": "derive",
-  "Past": "derived",
-  "PastParticiple": "derived"
+  "present": "derive",
+  "past": "derived",
+  "pastParticiple": "derived"
  },
  {
-  "Present": "describe",
-  "Past": "described",
-  "PastParticiple": "described"
+  "present": "describe",
+  "past": "described",
+  "pastParticiple": "described"
  },
  {
-  "Present": "desire",
-  "Past": "desired",
-  "PastParticiple": "desired"
+  "present": "desire",
+  "past": "desired",
+  "pastParticiple": "desired"
  },
  {
-  "Present": "destroy",
-  "Past": "destroyed",
-  "PastParticiple": "destroyed"
+  "present": "destroy",
+  "past": "destroyed",
+  "pastParticiple": "destroyed"
  },
  {
-  "Present": "detach",
-  "Past": "detached",
-  "PastParticiple": "detached"
+  "present": "detach",
+  "past": "detached",
+  "pastParticiple": "detached"
  },
  {
-  "Present": "detect",
-  "Past": "detected",
-  "PastParticiple": "detected"
+  "present": "detect",
+  "past": "detected",
+  "pastParticiple": "detected"
  },
  {
-  "Present": "determine",
-  "Past": "determined",
-  "PastParticiple": "determined"
+  "present": "determine",
+  "past": "determined",
+  "pastParticiple": "determined"
  },
  {
-  "Present": "develop",
-  "Past": "developed",
-  "PastParticiple": "developed"
+  "present": "develop",
+  "past": "developed",
+  "pastParticiple": "developed"
  },
  {
-  "Present": "die",
-  "Past": "died",
-  "PastParticiple": "died"
+  "present": "die",
+  "past": "died",
+  "pastParticiple": "died"
  },
  {
-  "Present": "differ",
-  "Past": "differed",
-  "PastParticiple": "differed"
+  "present": "differ",
+  "past": "differed",
+  "pastParticiple": "differed"
  },
  {
-  "Present": "dig",
-  "Past": "dug",
-  "PastParticiple": "dug"
+  "present": "dig",
+  "past": "dug",
+  "pastParticiple": "dug"
  },
  {
-  "Present": "digest",
-  "Past": "digested",
-  "PastParticiple": "digested"
+  "present": "digest",
+  "past": "digested",
+  "pastParticiple": "digested"
  },
  {
-  "Present": "dim",
-  "Past": "dimmed",
-  "PastParticiple": "dimmed"
+  "present": "dim",
+  "past": "dimmed",
+  "pastParticiple": "dimmed"
  },
  {
-  "Present": "diminish",
-  "Past": "diminished",
-  "PastParticiple": "diminished"
+  "present": "diminish",
+  "past": "diminished",
+  "pastParticiple": "diminished"
  },
  {
-  "Present": "dine",
-  "Past": "dined",
-  "PastParticiple": "dined"
+  "present": "dine",
+  "past": "dined",
+  "pastParticiple": "dined"
  },
  {
-  "Present": "dip",
-  "Past": "dipped",
-  "PastParticiple": "dipped"
+  "present": "dip",
+  "past": "dipped",
+  "pastParticiple": "dipped"
  },
  {
-  "Present": "direct",
-  "Past": "directed",
-  "PastParticiple": "directed"
+  "present": "direct",
+  "past": "directed",
+  "pastParticiple": "directed"
  },
  {
-  "Present": "disappear",
-  "Past": "disappeared",
-  "PastParticiple": "disappeared"
+  "present": "disappear",
+  "past": "disappeared",
+  "pastParticiple": "disappeared"
  },
  {
-  "Present": "discover",
-  "Past": "discovered",
-  "PastParticiple": "discovered"
+  "present": "discover",
+  "past": "discovered",
+  "pastParticiple": "discovered"
  },
  {
-  "Present": "discuss",
-  "Past": "discussed",
-  "PastParticiple": "discussed"
+  "present": "discuss",
+  "past": "discussed",
+  "pastParticiple": "discussed"
  },
  {
-  "Present": "disobey",
-  "Past": "disobeyed",
-  "PastParticiple": "disobeyed"
+  "present": "disobey",
+  "past": "disobeyed",
+  "pastParticiple": "disobeyed"
  },
  {
-  "Present": "display",
-  "Past": "displayed",
-  "PastParticiple": "displayed"
+  "present": "display",
+  "past": "displayed",
+  "pastParticiple": "displayed"
  },
  {
-  "Present": "dispose",
-  "Past": "disposed",
-  "PastParticiple": "disposed"
+  "present": "dispose",
+  "past": "disposed",
+  "pastParticiple": "disposed"
  },
  {
-  "Present": "distribute",
-  "Past": "distributed",
-  "PastParticiple": "distributed"
+  "present": "distribute",
+  "past": "distributed",
+  "pastParticiple": "distributed"
  },
  {
-  "Present": "disturb",
-  "Past": "disturbed",
-  "PastParticiple": "disturbed"
+  "present": "disturb",
+  "past": "disturbed",
+  "pastParticiple": "disturbed"
  },
  {
-  "Present": "disuse",
-  "Past": "disused",
-  "PastParticiple": "disused"
+  "present": "disuse",
+  "past": "disused",
+  "pastParticiple": "disused"
  },
  {
-  "Present": "dive",
-  "Past": "dived",
-  "PastParticiple": "dived"
+  "present": "dive",
+  "past": "dived",
+  "pastParticiple": "dived"
  },
  {
-  "Present": "divide",
-  "Past": "divided",
-  "PastParticiple": "divided"
+  "present": "divide",
+  "past": "divided",
+  "pastParticiple": "divided"
  },
  {
-  "Present": "do",
-  "Past": "did",
-  "PastParticiple": "done"
+  "present": "do",
+  "past": "did",
+  "pastParticiple": "done"
  },
  {
-  "Present": "donate",
-  "Past": "donated",
-  "PastParticiple": "donated"
+  "present": "donate",
+  "past": "donated",
+  "pastParticiple": "donated"
  },
  {
-  "Present": "download",
-  "Past": "downloaded",
-  "PastParticiple": "downloaded"
+  "present": "download",
+  "past": "downloaded",
+  "pastParticiple": "downloaded"
  },
  {
-  "Present": "drag",
-  "Past": "dragged",
-  "PastParticiple": "dragged"
+  "present": "drag",
+  "past": "dragged",
+  "pastParticiple": "dragged"
  },
  {
-  "Present": "draw",
-  "Past": "drew",
-  "PastParticiple": "drawn"
+  "present": "draw",
+  "past": "drew",
+  "pastParticiple": "drawn"
  },
  {
-  "Present": "dream",
-  "Past": "dreamt",
-  "PastParticiple": "dreamt"
+  "present": "dream",
+  "past": "dreamt",
+  "pastParticiple": "dreamt"
  },
  {
-  "Present": "dress",
-  "Past": "dressed",
-  "PastParticiple": "dressed"
+  "present": "dress",
+  "past": "dressed",
+  "pastParticiple": "dressed"
  },
  {
-  "Present": "drill",
-  "Past": "drilled",
-  "PastParticiple": "drilled"
+  "present": "drill",
+  "past": "drilled",
+  "pastParticiple": "drilled"
  },
  {
-  "Present": "drink",
-  "Past": "drank",
-  "PastParticiple": "drunk"
+  "present": "drink",
+  "past": "drank",
+  "pastParticiple": "drunk"
  },
  {
-  "Present": "drive",
-  "Past": "drove",
-  "PastParticiple": "driven"
+  "present": "drive",
+  "past": "drove",
+  "pastParticiple": "driven"
  },
  {
-  "Present": "drop",
-  "Past": "dropped",
-  "PastParticiple": "dropped"
+  "present": "drop",
+  "past": "dropped",
+  "pastParticiple": "dropped"
  },
  {
-  "Present": "dry",
-  "Past": "dried",
-  "PastParticiple": "dried"
+  "present": "dry",
+  "past": "dried",
+  "pastParticiple": "dried"
  },
  {
-  "Present": "dump",
-  "Past": "dumped",
-  "PastParticiple": "dumped"
+  "present": "dump",
+  "past": "dumped",
+  "pastParticiple": "dumped"
  },
  {
-  "Present": "dwell",
-  "Past": "dwelt",
-  "PastParticiple": "dwelt"
+  "present": "dwell",
+  "past": "dwelt",
+  "pastParticiple": "dwelt"
  },
  {
-  "Present": "dye",
-  "Past": "dyed",
-  "PastParticiple": "dyed"
+  "present": "dye",
+  "past": "dyed",
+  "pastParticiple": "dyed"
  },
  {
-  "Present": "earn",
-  "Past": "earned",
-  "PastParticiple": "earned"
+  "present": "earn",
+  "past": "earned",
+  "pastParticiple": "earned"
  },
  {
-  "Present": "eat",
-  "Past": "ate",
-  "PastParticiple": "eaten"
+  "present": "eat",
+  "past": "ate",
+  "pastParticiple": "eaten"
  },
  {
-  "Present": "educate",
-  "Past": "educated",
-  "PastParticiple": "educated"
+  "present": "educate",
+  "past": "educated",
+  "pastParticiple": "educated"
  },
  {
-  "Present": "empower",
-  "Past": "empowered",
-  "PastParticiple": "empowered"
+  "present": "empower",
+  "past": "empowered",
+  "pastParticiple": "empowered"
  },
  {
-  "Present": "empty",
-  "Past": "emptied",
-  "PastParticiple": "emptied"
+  "present": "empty",
+  "past": "emptied",
+  "pastParticiple": "emptied"
  },
  {
-  "Present": "encircle",
-  "Past": "encircled",
-  "PastParticiple": "encircled"
+  "present": "encircle",
+  "past": "encircled",
+  "pastParticiple": "encircled"
  },
  {
-  "Present": "encourage",
-  "Past": "encouraged",
-  "PastParticiple": "encouraged"
+  "present": "encourage",
+  "past": "encouraged",
+  "pastParticiple": "encouraged"
  },
  {
-  "Present": "encroach",
-  "Past": "encroached",
-  "PastParticiple": "encroached"
+  "present": "encroach",
+  "past": "encroached",
+  "pastParticiple": "encroached"
  },
  {
-  "Present": "endanger",
-  "Past": "endangered",
-  "PastParticiple": "endangered"
+  "present": "endanger",
+  "past": "endangered",
+  "pastParticiple": "endangered"
  },
  {
-  "Present": "endorse",
-  "Past": "endorsed",
-  "PastParticiple": "endorsed"
+  "present": "endorse",
+  "past": "endorsed",
+  "pastParticiple": "endorsed"
  },
  {
-  "Present": "endure",
-  "Past": "endured",
-  "PastParticiple": "endured"
+  "present": "endure",
+  "past": "endured",
+  "pastParticiple": "endured"
  },
  {
-  "Present": "engrave",
-  "Past": "engraved",
-  "PastParticiple": "engraved"
+  "present": "engrave",
+  "past": "engraved",
+  "pastParticiple": "engraved"
  },
  {
-  "Present": "enjoy",
-  "Past": "enjoyed",
-  "PastParticiple": "enjoyed"
+  "present": "enjoy",
+  "past": "enjoyed",
+  "pastParticiple": "enjoyed"
  },
  {
-  "Present": "enlarge",
-  "Past": "enlarged",
-  "PastParticiple": "enlarged"
+  "present": "enlarge",
+  "past": "enlarged",
+  "pastParticiple": "enlarged"
  },
  {
-  "Present": "enlighten",
-  "Past": "enlightened",
-  "PastParticiple": "enlightened"
+  "present": "enlighten",
+  "past": "enlightened",
+  "pastParticiple": "enlightened"
  },
  {
-  "Present": "enter",
-  "Past": "entered",
-  "PastParticiple": "entered"
+  "present": "enter",
+  "past": "entered",
+  "pastParticiple": "entered"
  },
  {
-  "Present": "envy",
-  "Past": "envied",
-  "PastParticiple": "envied"
+  "present": "envy",
+  "past": "envied",
+  "pastParticiple": "envied"
  },
  {
-  "Present": "erase",
-  "Past": "erased",
-  "PastParticiple": "erased"
+  "present": "erase",
+  "past": "erased",
+  "pastParticiple": "erased"
  },
  {
-  "Present": "escape",
-  "Past": "escaped",
-  "PastParticiple": "escaped"
+  "present": "escape",
+  "past": "escaped",
+  "pastParticiple": "escaped"
  },
  {
-  "Present": "evaporate",
-  "Past": "evaporated",
-  "PastParticiple": "evaporated"
+  "present": "evaporate",
+  "past": "evaporated",
+  "pastParticiple": "evaporated"
  },
  {
-  "Present": "exchange",
-  "Past": "exchanged",
-  "PastParticiple": "exchanged"
+  "present": "exchange",
+  "past": "exchanged",
+  "pastParticiple": "exchanged"
  },
  {
-  "Present": "exclaim",
-  "Past": "exclaimed",
-  "PastParticiple": "exclaimed"
+  "present": "exclaim",
+  "past": "exclaimed",
+  "pastParticiple": "exclaimed"
  },
  {
-  "Present": "exclude",
-  "Past": "excluded",
-  "PastParticiple": "excluded"
+  "present": "exclude",
+  "past": "excluded",
+  "pastParticiple": "excluded"
  },
  {
-  "Present": "exist",
-  "Past": "existed",
-  "PastParticiple": "existed"
+  "present": "exist",
+  "past": "existed",
+  "pastParticiple": "existed"
  },
  {
-  "Present": "expand",
-  "Past": "expanded",
-  "PastParticiple": "expanded"
+  "present": "expand",
+  "past": "expanded",
+  "pastParticiple": "expanded"
  },
  {
-  "Present": "expect",
-  "Past": "expected",
-  "PastParticiple": "expected"
+  "present": "expect",
+  "past": "expected",
+  "pastParticiple": "expected"
  },
  null,
  null,
  {
-  "Present": "explain",
-  "Past": "explained",
-  "PastParticiple": "explained"
+  "present": "explain",
+  "past": "explained",
+  "pastParticiple": "explained"
  },
  {
-  "Present": "explore",
-  "Past": "explored",
-  "PastParticiple": "explored"
+  "present": "explore",
+  "past": "explored",
+  "pastParticiple": "explored"
  },
  {
-  "Present": "express",
-  "Past": "expressed",
-  "PastParticiple": "expressed"
+  "present": "express",
+  "past": "expressed",
+  "pastParticiple": "expressed"
  },
  {
-  "Present": "extend",
-  "Past": "extended",
-  "PastParticiple": "extended"
+  "present": "extend",
+  "past": "extended",
+  "pastParticiple": "extended"
  },
  {
-  "Present": "eye",
-  "Past": "eyed",
-  "PastParticiple": "eyed"
+  "present": "eye",
+  "past": "eyed",
+  "pastParticiple": "eyed"
  },
  {
-  "Present": "face",
-  "Past": "faced",
-  "PastParticiple": "faced"
+  "present": "face",
+  "past": "faced",
+  "pastParticiple": "faced"
  },
  {
-  "Present": "fail",
-  "Past": "failed",
-  "PastParticiple": "failed"
+  "present": "fail",
+  "past": "failed",
+  "pastParticiple": "failed"
  },
  {
-  "Present": "faint",
-  "Past": "fainted",
-  "PastParticiple": "fainted"
+  "present": "faint",
+  "past": "fainted",
+  "pastParticiple": "fainted"
  },
  {
-  "Present": "fall",
-  "Past": "fell",
-  "PastParticiple": "fallen"
+  "present": "fall",
+  "past": "fell",
+  "pastParticiple": "fallen"
  },
  {
-  "Present": "fan",
-  "Past": "fanned",
-  "PastParticiple": "fanned"
+  "present": "fan",
+  "past": "fanned",
+  "pastParticiple": "fanned"
  },
  {
-  "Present": "fancy",
-  "Past": "fancied",
-  "PastParticiple": "fancied"
+  "present": "fancy",
+  "past": "fancied",
+  "pastParticiple": "fancied"
  },
  {
-  "Present": "favour",
-  "Past": "favoured",
-  "PastParticiple": "favoured"
+  "present": "favour",
+  "past": "favoured",
+  "pastParticiple": "favoured"
  },
  {
-  "Present": "fax",
-  "Past": "faxed",
-  "PastParticiple": "faxed"
+  "present": "fax",
+  "past": "faxed",
+  "pastParticiple": "faxed"
  },
  {
-  "Present": "feed",
-  "Past": "fed",
-  "PastParticiple": "fed"
+  "present": "feed",
+  "past": "fed",
+  "pastParticiple": "fed"
  },
  {
-  "Present": "feel",
-  "Past": "felt",
-  "PastParticiple": "felt"
+  "present": "feel",
+  "past": "felt",
+  "pastParticiple": "felt"
  },
  {
-  "Present": "ferry",
-  "Past": "ferried",
-  "PastParticiple": "ferried"
+  "present": "ferry",
+  "past": "ferried",
+  "pastParticiple": "ferried"
  },
  {
-  "Present": "fetch",
-  "Past": "fetched",
-  "PastParticiple": "fetched"
+  "present": "fetch",
+  "past": "fetched",
+  "pastParticiple": "fetched"
  },
  {
-  "Present": "fight",
-  "Past": "fought",
-  "PastParticiple": "fought"
+  "present": "fight",
+  "past": "fought",
+  "pastParticiple": "fought"
  },
  {
-  "Present": "fill",
-  "Past": "filled",
-  "PastParticiple": "filled"
+  "present": "fill",
+  "past": "filled",
+  "pastParticiple": "filled"
  },
  {
-  "Present": "find",
-  "Past": "found",
-  "PastParticiple": "found"
+  "present": "find",
+  "past": "found",
+  "pastParticiple": "found"
  },
  {
-  "Present": "finish",
-  "Past": "finished",
-  "PastParticiple": "finished"
+  "present": "finish",
+  "past": "finished",
+  "pastParticiple": "finished"
  },
  {
-  "Present": "fish",
-  "Past": "fished",
-  "PastParticiple": "fished"
+  "present": "fish",
+  "past": "fished",
+  "pastParticiple": "fished"
  },
  {
-  "Present": "fit",
-  "Past": "fit\/fitted",
-  "PastParticiple": "fit\/fitted"
+  "present": "fit",
+  "past": "fit\/fitted",
+  "pastParticiple": "fit\/fitted"
  },
  {
-  "Present": "fix",
-  "Past": "fixed",
-  "PastParticiple": "fixed"
+  "present": "fix",
+  "past": "fixed",
+  "pastParticiple": "fixed"
  },
  {
-  "Present": "fizz",
-  "Past": "fizzed",
-  "PastParticiple": "fizzed"
+  "present": "fizz",
+  "past": "fizzed",
+  "pastParticiple": "fizzed"
  },
  {
-  "Present": "flap",
-  "Past": "flapped",
-  "PastParticiple": "flapped"
+  "present": "flap",
+  "past": "flapped",
+  "pastParticiple": "flapped"
  },
  {
-  "Present": "flash",
-  "Past": "flashed",
-  "PastParticiple": "flashed"
+  "present": "flash",
+  "past": "flashed",
+  "pastParticiple": "flashed"
  },
  {
-  "Present": "flee",
-  "Past": "fled",
-  "PastParticiple": "fled"
+  "present": "flee",
+  "past": "fled",
+  "pastParticiple": "fled"
  },
  {
-  "Present": "fling",
-  "Past": "flung",
-  "PastParticiple": "flung"
+  "present": "fling",
+  "past": "flung",
+  "pastParticiple": "flung"
  },
  {
-  "Present": "float",
-  "Past": "floated",
-  "PastParticiple": "floated"
+  "present": "float",
+  "past": "floated",
+  "pastParticiple": "floated"
  },
  {
-  "Present": "flop",
-  "Past": "flopped",
-  "PastParticiple": "flopped"
+  "present": "flop",
+  "past": "flopped",
+  "pastParticiple": "flopped"
  },
  {
-  "Present": "fly",
-  "Past": "flew",
-  "PastParticiple": "flown"
+  "present": "fly",
+  "past": "flew",
+  "pastParticiple": "flown"
  },
  {
-  "Present": "fold",
-  "Past": "folded",
-  "PastParticiple": "folded"
+  "present": "fold",
+  "past": "folded",
+  "pastParticiple": "folded"
  },
  {
-  "Present": "follow",
-  "Past": "followed",
-  "PastParticiple": "followed"
+  "present": "follow",
+  "past": "followed",
+  "pastParticiple": "followed"
  },
  {
-  "Present": "forbid",
-  "Past": "forbade",
-  "PastParticiple": "forbidden"
+  "present": "forbid",
+  "past": "forbade",
+  "pastParticiple": "forbidden"
  },
  {
-  "Present": "force",
-  "Past": "forced",
-  "PastParticiple": "forced"
+  "present": "force",
+  "past": "forced",
+  "pastParticiple": "forced"
  },
  {
-  "Present": "forecast",
-  "Past": "forecast",
-  "PastParticiple": "forecast"
+  "present": "forecast",
+  "past": "forecast",
+  "pastParticiple": "forecast"
  },
  {
-  "Present": "foretell",
-  "Past": "foretold",
-  "PastParticiple": "foretold"
+  "present": "foretell",
+  "past": "foretold",
+  "pastParticiple": "foretold"
  },
  {
-  "Present": "forget",
-  "Past": "forgot",
-  "PastParticiple": "forgotten"
+  "present": "forget",
+  "past": "forgot",
+  "pastParticiple": "forgotten"
  },
  {
-  "Present": "forgive",
-  "Past": "forgave",
-  "PastParticiple": "forgiven"
+  "present": "forgive",
+  "past": "forgave",
+  "pastParticiple": "forgiven"
  },
  {
-  "Present": "forlese",
-  "Past": "forlore",
-  "PastParticiple": "forlorn"
+  "present": "forlese",
+  "past": "forlore",
+  "pastParticiple": "forlorn"
  },
  {
-  "Present": "form",
-  "Past": "formed",
-  "PastParticiple": "formed"
+  "present": "form",
+  "past": "formed",
+  "pastParticiple": "formed"
  },
  {
-  "Present": "forsake",
-  "Past": "forsook",
-  "PastParticiple": "forsaken"
+  "present": "forsake",
+  "past": "forsook",
+  "pastParticiple": "forsaken"
  },
  {
-  "Present": "found",
-  "Past": "founded",
-  "PastParticiple": "founded"
+  "present": "found",
+  "past": "founded",
+  "pastParticiple": "founded"
  },
  {
-  "Present": "frame",
-  "Past": "framed",
-  "PastParticiple": "framed"
+  "present": "frame",
+  "past": "framed",
+  "pastParticiple": "framed"
  },
  {
-  "Present": "free",
-  "Past": "freed",
-  "PastParticiple": "freed"
+  "present": "free",
+  "past": "freed",
+  "pastParticiple": "freed"
  },
  {
-  "Present": "freeze",
-  "Past": "froze",
-  "PastParticiple": "frozen"
+  "present": "freeze",
+  "past": "froze",
+  "pastParticiple": "frozen"
  },
  {
-  "Present": "frighten",
-  "Past": "frightened",
-  "PastParticiple": "frightened"
+  "present": "frighten",
+  "past": "frightened",
+  "pastParticiple": "frightened"
  },
  {
-  "Present": "fry",
-  "Past": "fried",
-  "PastParticiple": "fried"
+  "present": "fry",
+  "past": "fried",
+  "pastParticiple": "fried"
  },
  {
-  "Present": "fulfil",
-  "Past": "fulfilled",
-  "PastParticiple": "fulfilled"
+  "present": "fulfil",
+  "past": "fulfilled",
+  "pastParticiple": "fulfilled"
  },
  {
-  "Present": "gag",
-  "Past": "gagged",
-  "PastParticiple": "gagged"
+  "present": "gag",
+  "past": "gagged",
+  "pastParticiple": "gagged"
  },
  {
-  "Present": "gain",
-  "Past": "gained",
-  "PastParticiple": "gained"
+  "present": "gain",
+  "past": "gained",
+  "pastParticiple": "gained"
  },
  {
-  "Present": "gainsay",
-  "Past": "gainsaid",
-  "PastParticiple": "gainsaid"
+  "present": "gainsay",
+  "past": "gainsaid",
+  "pastParticiple": "gainsaid"
  },
  {
-  "Present": "gash",
-  "Past": "gashed",
-  "PastParticiple": "gashed"
+  "present": "gash",
+  "past": "gashed",
+  "pastParticiple": "gashed"
  },
  {
-  "Present": "gaze",
-  "Past": "gazed",
-  "PastParticiple": "gazed"
+  "present": "gaze",
+  "past": "gazed",
+  "pastParticiple": "gazed"
  },
  {
-  "Present": "get",
-  "Past": "got",
-  "PastParticiple": "got"
+  "present": "get",
+  "past": "got",
+  "pastParticiple": "got"
  },
  {
-  "Present": "give",
-  "Past": "gave",
-  "PastParticiple": "given"
+  "present": "give",
+  "past": "gave",
+  "pastParticiple": "given"
  },
  {
-  "Present": "glance",
-  "Past": "glanced",
-  "PastParticiple": "glanced"
+  "present": "glance",
+  "past": "glanced",
+  "pastParticiple": "glanced"
  },
  {
-  "Present": "glitter",
-  "Past": "glittered",
-  "PastParticiple": "glittered"
+  "present": "glitter",
+  "past": "glittered",
+  "pastParticiple": "glittered"
  },
  {
-  "Present": "glow",
-  "Past": "glowed",
-  "PastParticiple": "glowed"
+  "present": "glow",
+  "past": "glowed",
+  "pastParticiple": "glowed"
  },
  {
-  "Present": "go",
-  "Past": "went",
-  "PastParticiple": "gone"
+  "present": "go",
+  "past": "went",
+  "pastParticiple": "gone"
  },
  {
-  "Present": "google",
-  "Past": "googled",
-  "PastParticiple": "googled"
+  "present": "google",
+  "past": "googled",
+  "pastParticiple": "googled"
  },
  {
-  "Present": "govern",
-  "Past": "governed",
-  "PastParticiple": "governed"
+  "present": "govern",
+  "past": "governed",
+  "pastParticiple": "governed"
  },
  {
-  "Present": "grab",
-  "Past": "grabbed",
-  "PastParticiple": "grabbed"
+  "present": "grab",
+  "past": "grabbed",
+  "pastParticiple": "grabbed"
  },
  {
-  "Present": "grade",
-  "Past": "graded",
-  "PastParticiple": "graded"
+  "present": "grade",
+  "past": "graded",
+  "pastParticiple": "graded"
  },
  {
-  "Present": "grant",
-  "Past": "granted",
-  "PastParticiple": "granted"
+  "present": "grant",
+  "past": "granted",
+  "pastParticiple": "granted"
  },
  {
-  "Present": "greet",
-  "Past": "greeted",
-  "PastParticiple": "greeted"
+  "present": "greet",
+  "past": "greeted",
+  "pastParticiple": "greeted"
  },
  {
-  "Present": "grind",
-  "Past": "ground",
-  "PastParticiple": "ground"
+  "present": "grind",
+  "past": "ground",
+  "pastParticiple": "ground"
  },
  {
-  "Present": "grip",
-  "Past": "gripped",
-  "PastParticiple": "gripped"
+  "present": "grip",
+  "past": "gripped",
+  "pastParticiple": "gripped"
  },
  {
-  "Present": "grow",
-  "Past": "grew",
-  "PastParticiple": "grown"
+  "present": "grow",
+  "past": "grew",
+  "pastParticiple": "grown"
  },
  {
-  "Present": "guard",
-  "Past": "guarded",
-  "PastParticiple": "guarded"
+  "present": "guard",
+  "past": "guarded",
+  "pastParticiple": "guarded"
  },
  {
-  "Present": "guess",
-  "Past": "guessed",
-  "PastParticiple": "guessed"
+  "present": "guess",
+  "past": "guessed",
+  "pastParticiple": "guessed"
  },
  {
-  "Present": "guide",
-  "Past": "guided",
-  "PastParticiple": "guided"
+  "present": "guide",
+  "past": "guided",
+  "pastParticiple": "guided"
  },
  {
-  "Present": "handle",
-  "Past": "handled",
-  "PastParticiple": "handled"
+  "present": "handle",
+  "past": "handled",
+  "pastParticiple": "handled"
  },
  {
-  "Present": "hang",
-  "Past": "hung",
-  "PastParticiple": "hung"
+  "present": "hang",
+  "past": "hung",
+  "pastParticiple": "hung"
  },
  {
-  "Present": "happen",
-  "Past": "happened",
-  "PastParticiple": "happened"
+  "present": "happen",
+  "past": "happened",
+  "pastParticiple": "happened"
  },
  {
-  "Present": "harm",
-  "Past": "harmed",
-  "PastParticiple": "harmed"
+  "present": "harm",
+  "past": "harmed",
+  "pastParticiple": "harmed"
  },
  {
-  "Present": "hatch",
-  "Past": "hatched",
-  "PastParticiple": "hatched"
+  "present": "hatch",
+  "past": "hatched",
+  "pastParticiple": "hatched"
  },
  {
-  "Present": "hate",
-  "Past": "hated",
-  "PastParticiple": "hated"
+  "present": "hate",
+  "past": "hated",
+  "pastParticiple": "hated"
  },
  {
-  "Present": "have",
-  "Past": "had",
-  "PastParticiple": "had"
+  "present": "have",
+  "past": "had",
+  "pastParticiple": "had"
  },
  {
-  "Present": "heal",
-  "Past": "healed",
-  "PastParticiple": "healed"
+  "present": "heal",
+  "past": "healed",
+  "pastParticiple": "healed"
  },
  {
-  "Present": "hear",
-  "Past": "heard",
-  "PastParticiple": "heard"
+  "present": "hear",
+  "past": "heard",
+  "pastParticiple": "heard"
  },
  {
-  "Present": "heave",
-  "Past": "hove",
-  "PastParticiple": "hove"
+  "present": "heave",
+  "past": "hove",
+  "pastParticiple": "hove"
  },
  {
-  "Present": "help",
-  "Past": "helped",
-  "PastParticiple": "helped"
+  "present": "help",
+  "past": "helped",
+  "pastParticiple": "helped"
  },
  {
-  "Present": "hew",
-  "Past": "hewed",
-  "PastParticiple": "hewn"
+  "present": "hew",
+  "past": "hewed",
+  "pastParticiple": "hewn"
  },
  {
-  "Present": "hide",
-  "Past": "hid",
-  "PastParticiple": "hidden"
+  "present": "hide",
+  "past": "hid",
+  "pastParticiple": "hidden"
  },
  {
-  "Present": "hinder",
-  "Past": "hindered",
-  "PastParticiple": "hindered"
+  "present": "hinder",
+  "past": "hindered",
+  "pastParticiple": "hindered"
  },
  {
-  "Present": "hiss",
-  "Past": "hissed",
-  "PastParticiple": "hissed"
+  "present": "hiss",
+  "past": "hissed",
+  "pastParticiple": "hissed"
  },
  {
-  "Present": "hit",
-  "Past": "hit",
-  "PastParticiple": "hit"
+  "present": "hit",
+  "past": "hit",
+  "pastParticiple": "hit"
  },
  {
-  "Present": "hoax",
-  "Past": "hoaxed",
-  "PastParticiple": "hoaxed"
+  "present": "hoax",
+  "past": "hoaxed",
+  "pastParticiple": "hoaxed"
  },
  {
-  "Present": "hold",
-  "Past": "held",
-  "PastParticiple": "held"
+  "present": "hold",
+  "past": "held",
+  "pastParticiple": "held"
  },
  {
-  "Present": "hop",
-  "Past": "hopped",
-  "PastParticiple": "hopped"
+  "present": "hop",
+  "past": "hopped",
+  "pastParticiple": "hopped"
  },
  {
-  "Present": "hope",
-  "Past": "hoped",
-  "PastParticiple": "hoped"
+  "present": "hope",
+  "past": "hoped",
+  "pastParticiple": "hoped"
  },
  {
-  "Present": "horrify",
-  "Past": "horrified",
-  "PastParticiple": "horrified"
+  "present": "horrify",
+  "past": "horrified",
+  "pastParticiple": "horrified"
  },
  {
-  "Present": "hug",
-  "Past": "hugged",
-  "PastParticiple": "hugged"
+  "present": "hug",
+  "past": "hugged",
+  "pastParticiple": "hugged"
  },
  {
-  "Present": "hum",
-  "Past": "hummed",
-  "PastParticiple": "hummed"
+  "present": "hum",
+  "past": "hummed",
+  "pastParticiple": "hummed"
  },
  {
-  "Present": "humiliate",
-  "Past": "humiliated",
-  "PastParticiple": "humiliated"
+  "present": "humiliate",
+  "past": "humiliated",
+  "pastParticiple": "humiliated"
  },
  {
-  "Present": "hunt",
-  "Past": "hunted",
-  "PastParticiple": "hunted"
+  "present": "hunt",
+  "past": "hunted",
+  "pastParticiple": "hunted"
  },
  {
-  "Present": "hurl",
-  "Past": "hurled",
-  "PastParticiple": "hurled"
+  "present": "hurl",
+  "past": "hurled",
+  "pastParticiple": "hurled"
  },
  {
-  "Present": "hurry",
-  "Past": "hurried",
-  "PastParticiple": "hurried"
+  "present": "hurry",
+  "past": "hurried",
+  "pastParticiple": "hurried"
  },
  {
-  "Present": "hurt",
-  "Past": "hurt",
-  "PastParticiple": "hurt"
+  "present": "hurt",
+  "past": "hurt",
+  "pastParticiple": "hurt"
  },
  {
-  "Present": "hush",
-  "Past": "hushed",
-  "PastParticiple": "hushed"
+  "present": "hush",
+  "past": "hushed",
+  "pastParticiple": "hushed"
  },
  {
-  "Present": "hustle",
-  "Past": "hustled",
-  "PastParticiple": "hustled"
+  "present": "hustle",
+  "past": "hustled",
+  "pastParticiple": "hustled"
  },
  {
-  "Present": "hypnotize",
-  "Past": "hypnotized",
-  "PastParticiple": "hypnotized"
+  "present": "hypnotize",
+  "past": "hypnotized",
+  "pastParticiple": "hypnotized"
  },
  {
-  "Present": "idealize",
-  "Past": "idealized",
-  "PastParticiple": "idealized"
+  "present": "idealize",
+  "past": "idealized",
+  "pastParticiple": "idealized"
  },
  {
-  "Present": "identify",
-  "Past": "identified",
-  "PastParticiple": "identified"
+  "present": "identify",
+  "past": "identified",
+  "pastParticiple": "identified"
  },
  {
-  "Present": "idolize",
-  "Past": "idolized",
-  "PastParticiple": "idolized"
+  "present": "idolize",
+  "past": "idolized",
+  "pastParticiple": "idolized"
  },
  {
-  "Present": "ignite",
-  "Past": "ignited",
-  "PastParticiple": "ignited"
+  "present": "ignite",
+  "past": "ignited",
+  "pastParticiple": "ignited"
  },
  {
-  "Present": "ignore",
-  "Past": "ignored",
-  "PastParticiple": "ignored"
+  "present": "ignore",
+  "past": "ignored",
+  "pastParticiple": "ignored"
  },
  {
-  "Present": "ill-treat",
-  "Past": "ill-treated",
-  "PastParticiple": "ill-treated"
+  "present": "ill-treat",
+  "past": "ill-treated",
+  "pastParticiple": "ill-treated"
  },
  {
-  "Present": "illuminate",
-  "Past": "illuminated",
-  "PastParticiple": "illuminated"
+  "present": "illuminate",
+  "past": "illuminated",
+  "pastParticiple": "illuminated"
  },
  {
-  "Present": "illumine",
-  "Past": "illumined",
-  "PastParticiple": "illumined"
+  "present": "illumine",
+  "past": "illumined",
+  "pastParticiple": "illumined"
  },
  {
-  "Present": "illustrate",
-  "Past": "illustrated",
-  "PastParticiple": "illustrated"
+  "present": "illustrate",
+  "past": "illustrated",
+  "pastParticiple": "illustrated"
  },
  {
-  "Present": "imagine",
-  "Past": "imagined",
-  "PastParticiple": "imagined"
+  "present": "imagine",
+  "past": "imagined",
+  "pastParticiple": "imagined"
  },
  {
-  "Present": "imbibe",
-  "Past": "imbibed",
-  "PastParticiple": "imbibed"
+  "present": "imbibe",
+  "past": "imbibed",
+  "pastParticiple": "imbibed"
  },
  {
-  "Present": "imitate",
-  "Past": "imitated",
-  "PastParticiple": "imitated"
+  "present": "imitate",
+  "past": "imitated",
+  "pastParticiple": "imitated"
  },
  {
-  "Present": "immerse",
-  "Past": "immersed",
-  "PastParticiple": "immersed"
+  "present": "immerse",
+  "past": "immersed",
+  "pastParticiple": "immersed"
  },
  {
-  "Present": "immolate",
-  "Past": "immolated",
-  "PastParticiple": "immolated"
+  "present": "immolate",
+  "past": "immolated",
+  "pastParticiple": "immolated"
  },
  {
-  "Present": "immure",
-  "Past": "immured",
-  "PastParticiple": "immured"
+  "present": "immure",
+  "past": "immured",
+  "pastParticiple": "immured"
  },
  {
-  "Present": "impair",
-  "Past": "impaired",
-  "PastParticiple": "impaired"
+  "present": "impair",
+  "past": "impaired",
+  "pastParticiple": "impaired"
  },
  {
-  "Present": "impart",
-  "Past": "imparted",
-  "PastParticiple": "imparted"
+  "present": "impart",
+  "past": "imparted",
+  "pastParticiple": "imparted"
  },
  {
-  "Present": "impeach",
-  "Past": "impeached",
-  "PastParticiple": "impeached"
+  "present": "impeach",
+  "past": "impeached",
+  "pastParticiple": "impeached"
  },
  {
-  "Present": "impede",
-  "Past": "impeded",
-  "PastParticiple": "impeded"
+  "present": "impede",
+  "past": "impeded",
+  "pastParticiple": "impeded"
  },
  {
-  "Present": "impel",
-  "Past": "impelled",
-  "PastParticiple": "impelled"
+  "present": "impel",
+  "past": "impelled",
+  "pastParticiple": "impelled"
  },
  {
-  "Present": "impend",
-  "Past": "impended",
-  "PastParticiple": "impended"
+  "present": "impend",
+  "past": "impended",
+  "pastParticiple": "impended"
  },
  {
-  "Present": "imperil",
-  "Past": "imperilled",
-  "PastParticiple": "imperilled"
+  "present": "imperil",
+  "past": "imperilled",
+  "pastParticiple": "imperilled"
  },
  {
-  "Present": "impinge",
-  "Past": "impinged",
-  "PastParticiple": "impinged"
+  "present": "impinge",
+  "past": "impinged",
+  "pastParticiple": "impinged"
  },
  {
-  "Present": "implant",
-  "Past": "implanted",
-  "PastParticiple": "implanted"
+  "present": "implant",
+  "past": "implanted",
+  "pastParticiple": "implanted"
  },
  {
-  "Present": "implicate",
-  "Past": "implicated",
-  "PastParticiple": "implicated"
+  "present": "implicate",
+  "past": "implicated",
+  "pastParticiple": "implicated"
  },
  {
-  "Present": "implode",
-  "Past": "imploded",
-  "PastParticiple": "imploded"
+  "present": "implode",
+  "past": "imploded",
+  "pastParticiple": "imploded"
  },
  {
-  "Present": "implore",
-  "Past": "implored",
-  "PastParticiple": "implored"
+  "present": "implore",
+  "past": "implored",
+  "pastParticiple": "implored"
  },
  {
-  "Present": "imply",
-  "Past": "implied",
-  "PastParticiple": "implied"
+  "present": "imply",
+  "past": "implied",
+  "pastParticiple": "implied"
  },
  {
-  "Present": "import",
-  "Past": "imported",
-  "PastParticiple": "imported"
+  "present": "import",
+  "past": "imported",
+  "pastParticiple": "imported"
  },
  {
-  "Present": "impose",
-  "Past": "imposed",
-  "PastParticiple": "imposed"
+  "present": "impose",
+  "past": "imposed",
+  "pastParticiple": "imposed"
  },
  {
-  "Present": "impress",
-  "Past": "impressed",
-  "PastParticiple": "impressed"
+  "present": "impress",
+  "past": "impressed",
+  "pastParticiple": "impressed"
  },
  {
-  "Present": "imprint",
-  "Past": "imprinted",
-  "PastParticiple": "imprinted"
+  "present": "imprint",
+  "past": "imprinted",
+  "pastParticiple": "imprinted"
  },
  {
-  "Present": "imprison",
-  "Past": "imprisoned",
-  "PastParticiple": "imprisoned"
+  "present": "imprison",
+  "past": "imprisoned",
+  "pastParticiple": "imprisoned"
  },
  {
-  "Present": "improve",
-  "Past": "improved",
-  "PastParticiple": "improved"
+  "present": "improve",
+  "past": "improved",
+  "pastParticiple": "improved"
  },
  {
-  "Present": "inaugurate",
-  "Past": "inaugurated",
-  "PastParticiple": "inaugurated"
+  "present": "inaugurate",
+  "past": "inaugurated",
+  "pastParticiple": "inaugurated"
  },
  {
-  "Present": "incise",
-  "Past": "incised",
-  "PastParticiple": "incised"
+  "present": "incise",
+  "past": "incised",
+  "pastParticiple": "incised"
  },
  {
-  "Present": "include",
-  "Past": "included",
-  "PastParticiple": "included"
+  "present": "include",
+  "past": "included",
+  "pastParticiple": "included"
  },
  {
-  "Present": "increase",
-  "Past": "increased",
-  "PastParticiple": "increased"
+  "present": "increase",
+  "past": "increased",
+  "pastParticiple": "increased"
  },
  {
-  "Present": "inculcate",
-  "Past": "inculcated",
-  "PastParticiple": "inculcated"
+  "present": "inculcate",
+  "past": "inculcated",
+  "pastParticiple": "inculcated"
  },
  null,
  null,
  {
-  "Present": "indent",
-  "Past": "indented",
-  "PastParticiple": "indented"
+  "present": "indent",
+  "past": "indented",
+  "pastParticiple": "indented"
  },
  {
-  "Present": "indicate",
-  "Past": "indicated",
-  "PastParticiple": "indicated"
+  "present": "indicate",
+  "past": "indicated",
+  "pastParticiple": "indicated"
  },
  {
-  "Present": "induce",
-  "Past": "induced",
-  "PastParticiple": "induced"
+  "present": "induce",
+  "past": "induced",
+  "pastParticiple": "induced"
  },
  {
-  "Present": "indulge",
-  "Past": "indulged",
-  "PastParticiple": "indulged"
+  "present": "indulge",
+  "past": "indulged",
+  "pastParticiple": "indulged"
  },
  {
-  "Present": "infect",
-  "Past": "infected",
-  "PastParticiple": "infected"
+  "present": "infect",
+  "past": "infected",
+  "pastParticiple": "infected"
  },
  {
-  "Present": "infest",
-  "Past": "infested",
-  "PastParticiple": "infested"
+  "present": "infest",
+  "past": "infested",
+  "pastParticiple": "infested"
  },
  {
-  "Present": "inflame",
-  "Past": "inflamed",
-  "PastParticiple": "inflamed"
+  "present": "inflame",
+  "past": "inflamed",
+  "pastParticiple": "inflamed"
  },
  {
-  "Present": "inflate",
-  "Past": "inflated",
-  "PastParticiple": "inflated"
+  "present": "inflate",
+  "past": "inflated",
+  "pastParticiple": "inflated"
  },
  {
-  "Present": "inflect",
-  "Past": "inflected",
-  "PastParticiple": "inflected"
+  "present": "inflect",
+  "past": "inflected",
+  "pastParticiple": "inflected"
  },
  {
-  "Present": "inform",
-  "Past": "informed",
-  "PastParticiple": "informed"
+  "present": "inform",
+  "past": "informed",
+  "pastParticiple": "informed"
  },
  {
-  "Present": "infringe",
-  "Past": "infringed",
-  "PastParticiple": "infringed"
+  "present": "infringe",
+  "past": "infringed",
+  "pastParticiple": "infringed"
  },
  {
-  "Present": "infuse",
-  "Past": "infused",
-  "PastParticiple": "infused"
+  "present": "infuse",
+  "past": "infused",
+  "pastParticiple": "infused"
  },
  {
-  "Present": "ingest",
-  "Past": "ingested",
-  "PastParticiple": "ingested"
+  "present": "ingest",
+  "past": "ingested",
+  "pastParticiple": "ingested"
  },
  {
-  "Present": "inhabit",
-  "Past": "inhabited",
-  "PastParticiple": "inhabited"
+  "present": "inhabit",
+  "past": "inhabited",
+  "pastParticiple": "inhabited"
  },
  {
-  "Present": "inhale",
-  "Past": "inhaled",
-  "PastParticiple": "inhaled"
+  "present": "inhale",
+  "past": "inhaled",
+  "pastParticiple": "inhaled"
  },
  {
-  "Present": "inherit",
-  "Past": "inherited",
-  "PastParticiple": "inherited"
+  "present": "inherit",
+  "past": "inherited",
+  "pastParticiple": "inherited"
  },
  {
-  "Present": "initiate",
-  "Past": "initiated",
-  "PastParticiple": "initiated"
+  "present": "initiate",
+  "past": "initiated",
+  "pastParticiple": "initiated"
  },
  {
-  "Present": "inject",
-  "Past": "injected",
-  "PastParticiple": "injected"
+  "present": "inject",
+  "past": "injected",
+  "pastParticiple": "injected"
  },
  {
-  "Present": "injure",
-  "Past": "injured",
-  "PastParticiple": "injured"
+  "present": "injure",
+  "past": "injured",
+  "pastParticiple": "injured"
  },
  {
-  "Present": "inlay",
-  "Past": "inlaid",
-  "PastParticiple": "inlaid"
+  "present": "inlay",
+  "past": "inlaid",
+  "pastParticiple": "inlaid"
  },
  {
-  "Present": "innovate",
-  "Past": "innovated",
-  "PastParticiple": "innovated"
+  "present": "innovate",
+  "past": "innovated",
+  "pastParticiple": "innovated"
  },
  {
-  "Present": "input",
-  "Past": "input",
-  "PastParticiple": "input"
+  "present": "input",
+  "past": "input",
+  "pastParticiple": "input"
  },
  {
-  "Present": "inquire",
-  "Past": "inquired",
-  "PastParticiple": "inquired"
+  "present": "inquire",
+  "past": "inquired",
+  "pastParticiple": "inquired"
  },
  {
-  "Present": "inscribe",
-  "Past": "inscribed",
-  "PastParticiple": "inscribed"
+  "present": "inscribe",
+  "past": "inscribed",
+  "pastParticiple": "inscribed"
  },
  {
-  "Present": "insert",
-  "Past": "inserted",
-  "PastParticiple": "inserted"
+  "present": "insert",
+  "past": "inserted",
+  "pastParticiple": "inserted"
  },
  {
-  "Present": "inspect",
-  "Past": "inspected",
-  "PastParticiple": "inspected"
+  "present": "inspect",
+  "past": "inspected",
+  "pastParticiple": "inspected"
  },
  {
-  "Present": "inspire",
-  "Past": "inspired",
-  "PastParticiple": "inspired"
+  "present": "inspire",
+  "past": "inspired",
+  "pastParticiple": "inspired"
  },
  {
-  "Present": "install",
-  "Past": "installed",
-  "PastParticiple": "installed"
+  "present": "install",
+  "past": "installed",
+  "pastParticiple": "installed"
  },
  {
-  "Present": "insult",
-  "Past": "insulted",
-  "PastParticiple": "insulted"
+  "present": "insult",
+  "past": "insulted",
+  "pastParticiple": "insulted"
  },
  {
-  "Present": "insure",
-  "Past": "insured",
-  "PastParticiple": "insured"
+  "present": "insure",
+  "past": "insured",
+  "pastParticiple": "insured"
  },
  {
-  "Present": "integrate",
-  "Past": "integrated",
-  "PastParticiple": "integrated"
+  "present": "integrate",
+  "past": "integrated",
+  "pastParticiple": "integrated"
  },
  {
-  "Present": "introduce",
-  "Past": "introduced",
-  "PastParticiple": "introduced"
+  "present": "introduce",
+  "past": "introduced",
+  "pastParticiple": "introduced"
  },
  {
-  "Present": "invent",
-  "Past": "invented",
-  "PastParticiple": "invented"
+  "present": "invent",
+  "past": "invented",
+  "pastParticiple": "invented"
  },
  {
-  "Present": "invite",
-  "Past": "invited",
-  "PastParticiple": "invited"
+  "present": "invite",
+  "past": "invited",
+  "pastParticiple": "invited"
  },
  {
-  "Present": "join",
-  "Past": "joined",
-  "PastParticiple": "joined"
+  "present": "join",
+  "past": "joined",
+  "pastParticiple": "joined"
  },
  {
-  "Present": "jump",
-  "Past": "jumped",
-  "PastParticiple": "jumped"
+  "present": "jump",
+  "past": "jumped",
+  "pastParticiple": "jumped"
  },
  {
-  "Present": "justify",
-  "Past": "justified",
-  "PastParticiple": "justified"
+  "present": "justify",
+  "past": "justified",
+  "pastParticiple": "justified"
  },
  {
-  "Present": "keep",
-  "Past": "kept",
-  "PastParticiple": "kept"
+  "present": "keep",
+  "past": "kept",
+  "pastParticiple": "kept"
  },
  {
-  "Present": "kick",
-  "Past": "kicked",
-  "PastParticiple": "kicked"
+  "present": "kick",
+  "past": "kicked",
+  "pastParticiple": "kicked"
  },
  {
-  "Present": "kid",
-  "Past": "kidded",
-  "PastParticiple": "kidded"
+  "present": "kid",
+  "past": "kidded",
+  "pastParticiple": "kidded"
  },
  {
-  "Present": "kill",
-  "Past": "killed",
-  "PastParticiple": "killed"
+  "present": "kill",
+  "past": "killed",
+  "pastParticiple": "killed"
  },
  {
-  "Present": "kiss",
-  "Past": "kissed",
-  "PastParticiple": "kissed"
+  "present": "kiss",
+  "past": "kissed",
+  "pastParticiple": "kissed"
  },
  {
-  "Present": "kneel",
-  "Past": "knelt",
-  "PastParticiple": "knelt"
+  "present": "kneel",
+  "past": "knelt",
+  "pastParticiple": "knelt"
  },
  {
-  "Present": "knit",
-  "Past": "knit",
-  "PastParticiple": "knit"
+  "present": "knit",
+  "past": "knit",
+  "pastParticiple": "knit"
  },
  {
-  "Present": "knock",
-  "Past": "knocked",
-  "PastParticiple": "knocked"
+  "present": "knock",
+  "past": "knocked",
+  "pastParticiple": "knocked"
  },
  {
-  "Present": "know",
-  "Past": "knew",
-  "PastParticiple": "known"
+  "present": "know",
+  "past": "knew",
+  "pastParticiple": "known"
  },
  {
-  "Present": "lade",
-  "Past": "laded",
-  "PastParticiple": "laden"
+  "present": "lade",
+  "past": "laded",
+  "pastParticiple": "laden"
  },
  {
-  "Present": "land",
-  "Past": "landed",
-  "PastParticiple": "landed"
+  "present": "land",
+  "past": "landed",
+  "pastParticiple": "landed"
  },
  {
-  "Present": "last",
-  "Past": "lasted",
-  "PastParticiple": "lasted"
+  "present": "last",
+  "past": "lasted",
+  "pastParticiple": "lasted"
  },
  {
-  "Present": "latch",
-  "Past": "latched",
-  "PastParticiple": "latched"
+  "present": "latch",
+  "past": "latched",
+  "pastParticiple": "latched"
  },
  {
-  "Present": "laugh",
-  "Past": "laughed",
-  "PastParticiple": "laughed"
+  "present": "laugh",
+  "past": "laughed",
+  "pastParticiple": "laughed"
  },
  {
-  "Present": "lay",
-  "Past": "laid",
-  "PastParticiple": "laid"
+  "present": "lay",
+  "past": "laid",
+  "pastParticiple": "laid"
  },
  {
-  "Present": "lead",
-  "Past": "led",
-  "PastParticiple": "led"
+  "present": "lead",
+  "past": "led",
+  "pastParticiple": "led"
  },
  {
-  "Present": "leak",
-  "Past": "leaked",
-  "PastParticiple": "leaked"
+  "present": "leak",
+  "past": "leaked",
+  "pastParticiple": "leaked"
  },
  {
-  "Present": "lean",
-  "Past": "leant",
-  "PastParticiple": "leant"
+  "present": "lean",
+  "past": "leant",
+  "pastParticiple": "leant"
  },
  {
-  "Present": "leap",
-  "Past": "leapt",
-  "PastParticiple": "leapt"
+  "present": "leap",
+  "past": "leapt",
+  "pastParticiple": "leapt"
  },
  {
-  "Present": "learn",
-  "Past": "learnt",
-  "PastParticiple": "learnt"
+  "present": "learn",
+  "past": "learnt",
+  "pastParticiple": "learnt"
  },
  {
-  "Present": "leave",
-  "Past": "left",
-  "PastParticiple": "left"
+  "present": "leave",
+  "past": "left",
+  "pastParticiple": "left"
  },
  {
-  "Present": "leer",
-  "Past": "leered",
-  "PastParticiple": "leered"
+  "present": "leer",
+  "past": "leered",
+  "pastParticiple": "leered"
  },
  {
-  "Present": "lend",
-  "Past": "lent",
-  "PastParticiple": "lent"
+  "present": "lend",
+  "past": "lent",
+  "pastParticiple": "lent"
  },
  {
-  "Present": "let",
-  "Past": "let",
-  "PastParticiple": "let"
+  "present": "let",
+  "past": "let",
+  "pastParticiple": "let"
  },
  {
-  "Present": "lick",
-  "Past": "licked",
-  "PastParticiple": "licked"
+  "present": "lick",
+  "past": "licked",
+  "pastParticiple": "licked"
  },
  {
-  "Present": "lie",
-  "Past": "lay",
-  "PastParticiple": "lain"
+  "present": "lie",
+  "past": "lay",
+  "pastParticiple": "lain"
  },
  {
-  "Present": "lie",
-  "Past": "lied",
-  "PastParticiple": "lied"
+  "present": "lie",
+  "past": "lied",
+  "pastParticiple": "lied"
  },
  {
-  "Present": "lift",
-  "Past": "lifted",
-  "PastParticiple": "lifted"
+  "present": "lift",
+  "past": "lifted",
+  "pastParticiple": "lifted"
  },
  {
-  "Present": "light",
-  "Past": "lit",
-  "PastParticiple": "lit"
+  "present": "light",
+  "past": "lit",
+  "pastParticiple": "lit"
  },
  {
-  "Present": "like",
-  "Past": "liked",
-  "PastParticiple": "liked"
+  "present": "like",
+  "past": "liked",
+  "pastParticiple": "liked"
  },
  {
-  "Present": "limp",
-  "Past": "limped",
-  "PastParticiple": "limped"
+  "present": "limp",
+  "past": "limped",
+  "pastParticiple": "limped"
  },
  {
-  "Present": "listen",
-  "Past": "listened",
-  "PastParticiple": "listened"
+  "present": "listen",
+  "past": "listened",
+  "pastParticiple": "listened"
  },
  {
-  "Present": "live",
-  "Past": "lived",
-  "PastParticiple": "lived"
+  "present": "live",
+  "past": "lived",
+  "pastParticiple": "lived"
  },
  {
-  "Present": "look",
-  "Past": "looked",
-  "PastParticiple": "looked"
+  "present": "look",
+  "past": "looked",
+  "pastParticiple": "looked"
  },
  {
-  "Present": "lose",
-  "Past": "lost",
-  "PastParticiple": "lost"
+  "present": "lose",
+  "past": "lost",
+  "pastParticiple": "lost"
  },
  {
-  "Present": "love",
-  "Past": "loved",
-  "PastParticiple": "loved"
+  "present": "love",
+  "past": "loved",
+  "pastParticiple": "loved"
  },
  {
-  "Present": "magnify",
-  "Past": "magnified",
-  "PastParticiple": "magnified"
+  "present": "magnify",
+  "past": "magnified",
+  "pastParticiple": "magnified"
  },
  {
-  "Present": "maintain",
-  "Past": "maintained",
-  "PastParticiple": "maintained"
+  "present": "maintain",
+  "past": "maintained",
+  "pastParticiple": "maintained"
  },
  {
-  "Present": "make",
-  "Past": "made",
-  "PastParticiple": "made"
+  "present": "make",
+  "past": "made",
+  "pastParticiple": "made"
  },
  {
-  "Present": "manage",
-  "Past": "managed",
-  "PastParticiple": "managed"
+  "present": "manage",
+  "past": "managed",
+  "pastParticiple": "managed"
  },
  {
-  "Present": "march",
-  "Past": "marched",
-  "PastParticiple": "marched"
+  "present": "march",
+  "past": "marched",
+  "pastParticiple": "marched"
  },
  {
-  "Present": "mark",
-  "Past": "marked",
-  "PastParticiple": "marked"
+  "present": "mark",
+  "past": "marked",
+  "pastParticiple": "marked"
  },
  {
-  "Present": "marry",
-  "Past": "married",
-  "PastParticiple": "married"
+  "present": "marry",
+  "past": "married",
+  "pastParticiple": "married"
  },
  {
-  "Present": "mash",
-  "Past": "mashed",
-  "PastParticiple": "mashed"
+  "present": "mash",
+  "past": "mashed",
+  "pastParticiple": "mashed"
  },
  {
-  "Present": "match",
-  "Past": "matched",
-  "PastParticiple": "matched"
+  "present": "match",
+  "past": "matched",
+  "pastParticiple": "matched"
  },
  {
-  "Present": "matter",
-  "Past": "mattered",
-  "PastParticiple": "mattered"
+  "present": "matter",
+  "past": "mattered",
+  "pastParticiple": "mattered"
  },
  {
-  "Present": "mean",
-  "Past": "meant",
-  "PastParticiple": "meant"
+  "present": "mean",
+  "past": "meant",
+  "pastParticiple": "meant"
  },
  {
-  "Present": "measure",
-  "Past": "measured",
-  "PastParticiple": "measured"
+  "present": "measure",
+  "past": "measured",
+  "pastParticiple": "measured"
  },
  {
-  "Present": "meet",
-  "Past": "met",
-  "PastParticiple": "met"
+  "present": "meet",
+  "past": "met",
+  "pastParticiple": "met"
  },
  {
-  "Present": "melt",
-  "Past": "melted",
-  "PastParticiple": "melted"
+  "present": "melt",
+  "past": "melted",
+  "pastParticiple": "melted"
  },
  {
-  "Present": "merge",
-  "Past": "merged",
-  "PastParticiple": "merged"
+  "present": "merge",
+  "past": "merged",
+  "pastParticiple": "merged"
  },
  {
-  "Present": "mew",
-  "Past": "mewed",
-  "PastParticiple": "mewed"
+  "present": "mew",
+  "past": "mewed",
+  "pastParticiple": "mewed"
  },
  {
-  "Present": "migrate",
-  "Past": "migrated",
-  "PastParticiple": "migrated"
+  "present": "migrate",
+  "past": "migrated",
+  "pastParticiple": "migrated"
  },
  {
-  "Present": "milk",
-  "Past": "milked",
-  "PastParticiple": "milked"
+  "present": "milk",
+  "past": "milked",
+  "pastParticiple": "milked"
  },
  {
-  "Present": "mind",
-  "Past": "minded",
-  "PastParticiple": "minded"
+  "present": "mind",
+  "past": "minded",
+  "pastParticiple": "minded"
  },
  {
-  "Present": "mislead",
-  "Past": "misled",
-  "PastParticiple": "misled"
+  "present": "mislead",
+  "past": "misled",
+  "pastParticiple": "misled"
  },
  {
-  "Present": "miss",
-  "Past": "missed",
-  "PastParticiple": "missed"
+  "present": "miss",
+  "past": "missed",
+  "pastParticiple": "missed"
  },
  {
-  "Present": "mistake",
-  "Past": "mistook",
-  "PastParticiple": "mistaken"
+  "present": "mistake",
+  "past": "mistook",
+  "pastParticiple": "mistaken"
  },
  {
-  "Present": "misuse",
-  "Past": "misused",
-  "PastParticiple": "misused"
+  "present": "misuse",
+  "past": "misused",
+  "pastParticiple": "misused"
  },
  {
-  "Present": "mix",
-  "Past": "mixed",
-  "PastParticiple": "mixed"
+  "present": "mix",
+  "past": "mixed",
+  "pastParticiple": "mixed"
  },
  {
-  "Present": "moan",
-  "Past": "moaned",
-  "PastParticiple": "moaned"
+  "present": "moan",
+  "past": "moaned",
+  "pastParticiple": "moaned"
  },
  {
-  "Present": "modify",
-  "Past": "modified",
-  "PastParticiple": "modified"
+  "present": "modify",
+  "past": "modified",
+  "pastParticiple": "modified"
  },
  {
-  "Present": "moo",
-  "Past": "mooed",
-  "PastParticiple": "mooed"
+  "present": "moo",
+  "past": "mooed",
+  "pastParticiple": "mooed"
  },
  {
-  "Present": "motivate",
-  "Past": "motivated",
-  "PastParticiple": "motivated"
+  "present": "motivate",
+  "past": "motivated",
+  "pastParticiple": "motivated"
  },
  {
-  "Present": "mould",
-  "Past": "moulded",
-  "PastParticiple": "moulded"
+  "present": "mould",
+  "past": "moulded",
+  "pastParticiple": "moulded"
  },
  {
-  "Present": "moult",
-  "Past": "moulted",
-  "PastParticiple": "moulted"
+  "present": "moult",
+  "past": "moulted",
+  "pastParticiple": "moulted"
  },
  {
-  "Present": "move",
-  "Past": "moved",
-  "PastParticiple": "moved"
+  "present": "move",
+  "past": "moved",
+  "pastParticiple": "moved"
  },
  {
-  "Present": "mow",
-  "Past": "mowed",
-  "PastParticiple": "mown"
+  "present": "mow",
+  "past": "mowed",
+  "pastParticiple": "mown"
  },
  {
-  "Present": "multiply",
-  "Past": "multiplied",
-  "PastParticiple": "multiplied"
+  "present": "multiply",
+  "past": "multiplied",
+  "pastParticiple": "multiplied"
  },
  {
-  "Present": "murmur",
-  "Past": "murmured",
-  "PastParticiple": "murmured"
+  "present": "murmur",
+  "past": "murmured",
+  "pastParticiple": "murmured"
  },
  {
-  "Present": "nail",
-  "Past": "nailed",
-  "PastParticiple": "nailed"
+  "present": "nail",
+  "past": "nailed",
+  "pastParticiple": "nailed"
  },
  {
-  "Present": "nap",
-  "Past": "napped",
-  "PastParticiple": "napped"
+  "present": "nap",
+  "past": "napped",
+  "pastParticiple": "napped"
  },
  {
-  "Present": "need",
-  "Past": "needed",
-  "PastParticiple": "needed"
+  "present": "need",
+  "past": "needed",
+  "pastParticiple": "needed"
  },
  {
-  "Present": "neglect",
-  "Past": "neglected",
-  "PastParticiple": "neglected"
+  "present": "neglect",
+  "past": "neglected",
+  "pastParticiple": "neglected"
  },
  {
-  "Present": "nip",
-  "Past": "nipped",
-  "PastParticiple": "nipped"
+  "present": "nip",
+  "past": "nipped",
+  "pastParticiple": "nipped"
  },
  {
-  "Present": "nod",
-  "Past": "nodded",
-  "PastParticiple": "nodded"
+  "present": "nod",
+  "past": "nodded",
+  "pastParticiple": "nodded"
  },
  {
-  "Present": "note",
-  "Past": "noted",
-  "PastParticiple": "noted"
+  "present": "note",
+  "past": "noted",
+  "pastParticiple": "noted"
  },
  {
-  "Present": "notice",
-  "Past": "noticed",
-  "PastParticiple": "noticed"
+  "present": "notice",
+  "past": "noticed",
+  "pastParticiple": "noticed"
  },
  {
-  "Present": "notify",
-  "Past": "notified",
-  "PastParticiple": "notified"
+  "present": "notify",
+  "past": "notified",
+  "pastParticiple": "notified"
  },
  {
-  "Present": "nourish",
-  "Past": "nourished",
-  "PastParticiple": "nourished"
+  "present": "nourish",
+  "past": "nourished",
+  "pastParticiple": "nourished"
  },
  null,
  null,
  {
-  "Present": "nurse",
-  "Past": "nursed",
-  "PastParticiple": "nursed"
+  "present": "nurse",
+  "past": "nursed",
+  "pastParticiple": "nursed"
  },
  {
-  "Present": "obey",
-  "Past": "obeyed",
-  "PastParticiple": "obeyed"
+  "present": "obey",
+  "past": "obeyed",
+  "pastParticiple": "obeyed"
  },
  {
-  "Present": "oblige",
-  "Past": "obliged",
-  "PastParticiple": "obliged"
+  "present": "oblige",
+  "past": "obliged",
+  "pastParticiple": "obliged"
  },
  {
-  "Present": "observe",
-  "Past": "observed",
-  "PastParticiple": "observed"
+  "present": "observe",
+  "past": "observed",
+  "pastParticiple": "observed"
  },
  {
-  "Present": "obstruct",
-  "Past": "obstructed",
-  "PastParticiple": "obstructed"
+  "present": "obstruct",
+  "past": "obstructed",
+  "pastParticiple": "obstructed"
  },
  {
-  "Present": "obtain",
-  "Past": "obtained",
-  "PastParticiple": "obtained"
+  "present": "obtain",
+  "past": "obtained",
+  "pastParticiple": "obtained"
  },
  {
-  "Present": "occupy",
-  "Past": "occupied",
-  "PastParticiple": "occupied"
+  "present": "occupy",
+  "past": "occupied",
+  "pastParticiple": "occupied"
  },
  {
-  "Present": "occur",
-  "Past": "occurred",
-  "PastParticiple": "occurred"
+  "present": "occur",
+  "past": "occurred",
+  "pastParticiple": "occurred"
  },
  {
-  "Present": "offer",
-  "Past": "offered",
-  "PastParticiple": "offered"
+  "present": "offer",
+  "past": "offered",
+  "pastParticiple": "offered"
  },
  {
-  "Present": "offset",
-  "Past": "offset",
-  "PastParticiple": "offset"
+  "present": "offset",
+  "past": "offset",
+  "pastParticiple": "offset"
  },
  {
-  "Present": "omit",
-  "Past": "omitted",
-  "PastParticiple": "omitted"
+  "present": "omit",
+  "past": "omitted",
+  "pastParticiple": "omitted"
  },
  {
-  "Present": "ooze",
-  "Past": "oozed",
-  "PastParticiple": "oozed"
+  "present": "ooze",
+  "past": "oozed",
+  "pastParticiple": "oozed"
  },
  {
-  "Present": "open",
-  "Past": "opened",
-  "PastParticiple": "opened"
+  "present": "open",
+  "past": "opened",
+  "pastParticiple": "opened"
  },
  {
-  "Present": "operate",
-  "Past": "operated",
-  "PastParticiple": "operated"
+  "present": "operate",
+  "past": "operated",
+  "pastParticiple": "operated"
  },
  {
-  "Present": "opine",
-  "Past": "opined",
-  "PastParticiple": "opined"
+  "present": "opine",
+  "past": "opined",
+  "pastParticiple": "opined"
  },
  {
-  "Present": "oppress",
-  "Past": "oppressed",
-  "PastParticiple": "oppressed"
+  "present": "oppress",
+  "past": "oppressed",
+  "pastParticiple": "oppressed"
  },
  {
-  "Present": "opt",
-  "Past": "opted",
-  "PastParticiple": "opted"
+  "present": "opt",
+  "past": "opted",
+  "pastParticiple": "opted"
  },
  {
-  "Present": "optimize",
-  "Past": "optimized",
-  "PastParticiple": "optimized"
+  "present": "optimize",
+  "past": "optimized",
+  "pastParticiple": "optimized"
  },
  {
-  "Present": "order",
-  "Past": "ordered",
-  "PastParticiple": "ordered"
+  "present": "order",
+  "past": "ordered",
+  "pastParticiple": "ordered"
  },
  {
-  "Present": "organize",
-  "Past": "organized",
-  "PastParticiple": "organized"
+  "present": "organize",
+  "past": "organized",
+  "pastParticiple": "organized"
  },
  {
-  "Present": "originate",
-  "Past": "originated",
-  "PastParticiple": "originated"
+  "present": "originate",
+  "past": "originated",
+  "pastParticiple": "originated"
  },
  {
-  "Present": "output",
-  "Past": "output",
-  "PastParticiple": "output"
+  "present": "output",
+  "past": "output",
+  "pastParticiple": "output"
  },
  {
-  "Present": "overflow",
-  "Past": "overflowed",
-  "PastParticiple": "overflowed"
+  "present": "overflow",
+  "past": "overflowed",
+  "pastParticiple": "overflowed"
  },
  {
-  "Present": "overtake",
-  "Past": "overtook",
-  "PastParticiple": "overtaken"
+  "present": "overtake",
+  "past": "overtook",
+  "pastParticiple": "overtaken"
  },
  {
-  "Present": "owe",
-  "Past": "owed",
-  "PastParticiple": "owed"
+  "present": "owe",
+  "past": "owed",
+  "pastParticiple": "owed"
  },
  {
-  "Present": "own",
-  "Past": "owned",
-  "PastParticiple": "owned"
+  "present": "own",
+  "past": "owned",
+  "pastParticiple": "owned"
  },
  {
-  "Present": "pacify",
-  "Past": "pacified",
-  "PastParticiple": "pacified"
+  "present": "pacify",
+  "past": "pacified",
+  "pastParticiple": "pacified"
  },
  {
-  "Present": "paint",
-  "Past": "painted",
-  "PastParticiple": "painted"
+  "present": "paint",
+  "past": "painted",
+  "pastParticiple": "painted"
  },
  {
-  "Present": "pardon",
-  "Past": "pardoned",
-  "PastParticiple": "pardoned"
+  "present": "pardon",
+  "past": "pardoned",
+  "pastParticiple": "pardoned"
  },
  {
-  "Present": "part",
-  "Past": "parted",
-  "PastParticiple": "parted"
+  "present": "part",
+  "past": "parted",
+  "pastParticiple": "parted"
  },
  {
-  "Present": "partake",
-  "Past": "partook",
-  "PastParticiple": "partaken"
+  "present": "partake",
+  "past": "partook",
+  "pastParticiple": "partaken"
  },
  {
-  "Present": "participate",
-  "Past": "participated",
-  "PastParticiple": "participated"
+  "present": "participate",
+  "past": "participated",
+  "pastParticiple": "participated"
  },
  {
-  "Present": "pass",
-  "Past": "passed",
-  "PastParticiple": "passed"
+  "present": "pass",
+  "past": "passed",
+  "pastParticiple": "passed"
  },
  {
-  "Present": "paste",
-  "Past": "pasted",
-  "PastParticiple": "pasted"
+  "present": "paste",
+  "past": "pasted",
+  "pastParticiple": "pasted"
  },
  {
-  "Present": "pat",
-  "Past": "patted",
-  "PastParticiple": "patted"
+  "present": "pat",
+  "past": "patted",
+  "pastParticiple": "patted"
  },
  {
-  "Present": "patch",
-  "Past": "patched",
-  "PastParticiple": "patched"
+  "present": "patch",
+  "past": "patched",
+  "pastParticiple": "patched"
  },
  {
-  "Present": "pause",
-  "Past": "paused",
-  "PastParticiple": "paused"
+  "present": "pause",
+  "past": "paused",
+  "pastParticiple": "paused"
  },
  {
-  "Present": "pay",
-  "Past": "paid",
-  "PastParticiple": "paid"
+  "present": "pay",
+  "past": "paid",
+  "pastParticiple": "paid"
  },
  {
-  "Present": "peep",
-  "Past": "peeped",
-  "PastParticiple": "peeped"
+  "present": "peep",
+  "past": "peeped",
+  "pastParticiple": "peeped"
  },
  {
-  "Present": "perish",
-  "Past": "perished",
-  "PastParticiple": "perished"
+  "present": "perish",
+  "past": "perished",
+  "pastParticiple": "perished"
  },
  {
-  "Present": "permit",
-  "Past": "permitted",
-  "PastParticiple": "permitted"
+  "present": "permit",
+  "past": "permitted",
+  "pastParticiple": "permitted"
  },
  {
-  "Present": "persuade",
-  "Past": "persuaded",
-  "PastParticiple": "persuaded"
+  "present": "persuade",
+  "past": "persuaded",
+  "pastParticiple": "persuaded"
  },
  {
-  "Present": "phone",
-  "Past": "phoned",
-  "PastParticiple": "phoned"
+  "present": "phone",
+  "past": "phoned",
+  "pastParticiple": "phoned"
  },
  {
-  "Present": "place",
-  "Past": "placed",
-  "PastParticiple": "placed"
+  "present": "place",
+  "past": "placed",
+  "pastParticiple": "placed"
  },
  {
-  "Present": "plan",
-  "Past": "planned",
-  "PastParticiple": "planned"
+  "present": "plan",
+  "past": "planned",
+  "pastParticiple": "planned"
  },
  {
-  "Present": "play",
-  "Past": "played",
-  "PastParticiple": "played"
+  "present": "play",
+  "past": "played",
+  "pastParticiple": "played"
  },
  {
-  "Present": "plead",
-  "Past": "pled",
-  "PastParticiple": "pled"
+  "present": "plead",
+  "past": "pled",
+  "pastParticiple": "pled"
  },
  {
-  "Present": "please",
-  "Past": "pleased",
-  "PastParticiple": "pleased"
+  "present": "please",
+  "past": "pleased",
+  "pastParticiple": "pleased"
  },
  {
-  "Present": "plod",
-  "Past": "plodded",
-  "PastParticiple": "plodded"
+  "present": "plod",
+  "past": "plodded",
+  "pastParticiple": "plodded"
  },
  {
-  "Present": "plot",
-  "Past": "plotted",
-  "PastParticiple": "plotted"
+  "present": "plot",
+  "past": "plotted",
+  "pastParticiple": "plotted"
  },
  {
-  "Present": "pluck",
-  "Past": "plucked",
-  "PastParticiple": "plucked"
+  "present": "pluck",
+  "past": "plucked",
+  "pastParticiple": "plucked"
  },
  {
-  "Present": "ply",
-  "Past": "plied",
-  "PastParticiple": "plied"
+  "present": "ply",
+  "past": "plied",
+  "pastParticiple": "plied"
  },
  {
-  "Present": "point",
-  "Past": "pointed",
-  "PastParticiple": "pointed"
+  "present": "point",
+  "past": "pointed",
+  "pastParticiple": "pointed"
  },
  {
-  "Present": "polish",
-  "Past": "polished",
-  "PastParticiple": "polished"
+  "present": "polish",
+  "past": "polished",
+  "pastParticiple": "polished"
  },
  {
-  "Present": "pollute",
-  "Past": "polluted",
-  "PastParticiple": "polluted"
+  "present": "pollute",
+  "past": "polluted",
+  "pastParticiple": "polluted"
  },
  {
-  "Present": "ponder",
-  "Past": "pondered",
-  "PastParticiple": "pondered"
+  "present": "ponder",
+  "past": "pondered",
+  "pastParticiple": "pondered"
  },
  {
-  "Present": "pour",
-  "Past": "poured",
-  "PastParticiple": "poured"
+  "present": "pour",
+  "past": "poured",
+  "pastParticiple": "poured"
  },
  {
-  "Present": "pout",
-  "Past": "pouted",
-  "PastParticiple": "pouted"
+  "present": "pout",
+  "past": "pouted",
+  "pastParticiple": "pouted"
  },
  {
-  "Present": "practise",
-  "Past": "practised",
-  "PastParticiple": "practised"
+  "present": "practise",
+  "past": "practised",
+  "pastParticiple": "practised"
  },
  {
-  "Present": "praise",
-  "Past": "praised",
-  "PastParticiple": "praised"
+  "present": "praise",
+  "past": "praised",
+  "pastParticiple": "praised"
  },
  {
-  "Present": "pray",
-  "Past": "prayed",
-  "PastParticiple": "prayed"
+  "present": "pray",
+  "past": "prayed",
+  "pastParticiple": "prayed"
  },
  {
-  "Present": "preach",
-  "Past": "preached",
-  "PastParticiple": "preached"
+  "present": "preach",
+  "past": "preached",
+  "pastParticiple": "preached"
  },
  {
-  "Present": "prefer",
-  "Past": "preferred",
-  "PastParticiple": "preferred"
+  "present": "prefer",
+  "past": "preferred",
+  "pastParticiple": "preferred"
  },
  {
-  "Present": "prepare",
-  "Past": "prepared",
-  "PastParticiple": "prepared"
+  "present": "prepare",
+  "past": "prepared",
+  "pastParticiple": "prepared"
  },
  {
-  "Present": "prescribe",
-  "Past": "prescribed",
-  "PastParticiple": "prescribed"
+  "present": "prescribe",
+  "past": "prescribed",
+  "pastParticiple": "prescribed"
  },
  {
-  "Present": "present",
-  "Past": "presented",
-  "PastParticiple": "presented"
+  "present": "present",
+  "past": "presented",
+  "pastParticiple": "presented"
  },
  {
-  "Present": "preserve",
-  "Past": "preserved",
-  "PastParticiple": "preserved"
+  "present": "preserve",
+  "past": "preserved",
+  "pastParticiple": "preserved"
  },
  {
-  "Present": "preset",
-  "Past": "preset",
-  "PastParticiple": "preset"
+  "present": "preset",
+  "past": "preset",
+  "pastParticiple": "preset"
  },
  {
-  "Present": "preside",
-  "Past": "presided",
-  "PastParticiple": "presided"
+  "present": "preside",
+  "past": "presided",
+  "pastParticiple": "presided"
  },
  {
-  "Present": "press",
-  "Past": "pressed",
-  "PastParticiple": "pressed"
+  "present": "press",
+  "past": "pressed",
+  "pastParticiple": "pressed"
  },
  {
-  "Present": "pretend",
-  "Past": "pretended",
-  "PastParticiple": "pretended"
+  "present": "pretend",
+  "past": "pretended",
+  "pastParticiple": "pretended"
  },
  {
-  "Present": "prevent",
-  "Past": "prevented",
-  "PastParticiple": "prevented"
+  "present": "prevent",
+  "past": "prevented",
+  "pastParticiple": "prevented"
  },
  {
-  "Present": "print",
-  "Past": "printed",
-  "PastParticiple": "printed"
+  "present": "print",
+  "past": "printed",
+  "pastParticiple": "printed"
  },
  {
-  "Present": "proceed",
-  "Past": "proceeded",
-  "PastParticiple": "proceeded"
+  "present": "proceed",
+  "past": "proceeded",
+  "pastParticiple": "proceeded"
  },
  {
-  "Present": "produce",
-  "Past": "produced",
-  "PastParticiple": "produced"
+  "present": "produce",
+  "past": "produced",
+  "pastParticiple": "produced"
  },
  {
-  "Present": "progress",
-  "Past": "progressed",
-  "PastParticiple": "progressed"
+  "present": "progress",
+  "past": "progressed",
+  "pastParticiple": "progressed"
  },
  {
-  "Present": "prohibit",
-  "Past": "prohibited",
-  "PastParticiple": "prohibited"
+  "present": "prohibit",
+  "past": "prohibited",
+  "pastParticiple": "prohibited"
  },
  {
-  "Present": "promise",
-  "Past": "promised",
-  "PastParticiple": "promised"
+  "present": "promise",
+  "past": "promised",
+  "pastParticiple": "promised"
  },
  {
-  "Present": "propose",
-  "Past": "proposed",
-  "PastParticiple": "proposed"
+  "present": "propose",
+  "past": "proposed",
+  "pastParticiple": "proposed"
  },
  {
-  "Present": "prosecute",
-  "Past": "prosecuted",
-  "PastParticiple": "prosecuted"
+  "present": "prosecute",
+  "past": "prosecuted",
+  "pastParticiple": "prosecuted"
  },
  {
-  "Present": "prosecute",
-  "Past": "prosecuted",
-  "PastParticiple": "prosecuted"
+  "present": "prosecute",
+  "past": "prosecuted",
+  "pastParticiple": "prosecuted"
  },
  {
-  "Present": "protect",
-  "Past": "protected",
-  "PastParticiple": "protected"
+  "present": "protect",
+  "past": "protected",
+  "pastParticiple": "protected"
  },
  {
-  "Present": "prove",
-  "Past": "proved",
-  "PastParticiple": "proved"
+  "present": "prove",
+  "past": "proved",
+  "pastParticiple": "proved"
  },
  {
-  "Present": "provide",
-  "Past": "provided",
-  "PastParticiple": "provided"
+  "present": "provide",
+  "past": "provided",
+  "pastParticiple": "provided"
  },
  {
-  "Present": "pull",
-  "Past": "pulled",
-  "PastParticiple": "pulled"
+  "present": "pull",
+  "past": "pulled",
+  "pastParticiple": "pulled"
  },
  {
-  "Present": "punish",
-  "Past": "punished",
-  "PastParticiple": "punished"
+  "present": "punish",
+  "past": "punished",
+  "pastParticiple": "punished"
  },
  {
-  "Present": "purify",
-  "Past": "purified",
-  "PastParticiple": "purified"
+  "present": "purify",
+  "past": "purified",
+  "pastParticiple": "purified"
  },
  {
-  "Present": "push",
-  "Past": "pushed",
-  "PastParticiple": "pushed"
+  "present": "push",
+  "past": "pushed",
+  "pastParticiple": "pushed"
  },
  {
-  "Present": "put",
-  "Past": "put",
-  "PastParticiple": "put"
+  "present": "put",
+  "past": "put",
+  "pastParticiple": "put"
  },
  {
-  "Present": "qualify",
-  "Past": "qualified",
-  "PastParticiple": "qualified"
+  "present": "qualify",
+  "past": "qualified",
+  "pastParticiple": "qualified"
  },
  {
-  "Present": "quarrel",
-  "Past": "quarrelled",
-  "PastParticiple": "quarrelled"
+  "present": "quarrel",
+  "past": "quarrelled",
+  "pastParticiple": "quarrelled"
  },
  {
-  "Present": "question",
-  "Past": "questioned",
-  "PastParticiple": "questioned"
+  "present": "question",
+  "past": "questioned",
+  "pastParticiple": "questioned"
  },
  {
-  "Present": "quit",
-  "Past": "quit",
-  "PastParticiple": "quit"
+  "present": "quit",
+  "past": "quit",
+  "pastParticiple": "quit"
  },
  {
-  "Present": "race",
-  "Past": "raced",
-  "PastParticiple": "raced"
+  "present": "race",
+  "past": "raced",
+  "pastParticiple": "raced"
  },
  {
-  "Present": "rain",
-  "Past": "rained",
-  "PastParticiple": "rained"
+  "present": "rain",
+  "past": "rained",
+  "pastParticiple": "rained"
  },
  {
-  "Present": "rattle",
-  "Past": "rattled",
-  "PastParticiple": "rattled"
+  "present": "rattle",
+  "past": "rattled",
+  "pastParticiple": "rattled"
  },
  {
-  "Present": "reach",
-  "Past": "reached",
-  "PastParticiple": "reached"
+  "present": "reach",
+  "past": "reached",
+  "pastParticiple": "reached"
  },
  {
-  "Present": "read",
-  "Past": "read",
-  "PastParticiple": "read"
+  "present": "read",
+  "past": "read",
+  "pastParticiple": "read"
  },
  {
-  "Present": "realize",
-  "Past": "realized",
-  "PastParticiple": "realized"
+  "present": "realize",
+  "past": "realized",
+  "pastParticiple": "realized"
  },
  {
-  "Present": "rebuild",
-  "Past": "rebuilt",
-  "PastParticiple": "rebuilt"
+  "present": "rebuild",
+  "past": "rebuilt",
+  "pastParticiple": "rebuilt"
  },
  {
-  "Present": "recall",
-  "Past": "recalled",
-  "PastParticiple": "recalled"
+  "present": "recall",
+  "past": "recalled",
+  "pastParticiple": "recalled"
  },
  {
-  "Present": "recast",
-  "Past": "recast",
-  "PastParticiple": "recast"
+  "present": "recast",
+  "past": "recast",
+  "pastParticiple": "recast"
  },
  {
-  "Present": "receive",
-  "Past": "received",
-  "PastParticiple": "received"
+  "present": "receive",
+  "past": "received",
+  "pastParticiple": "received"
  },
  {
-  "Present": "recite",
-  "Past": "recited",
-  "PastParticiple": "recited"
+  "present": "recite",
+  "past": "recited",
+  "pastParticiple": "recited"
  },
  {
-  "Present": "recognize",
-  "Past": "recognized",
-  "PastParticiple": "recognized"
+  "present": "recognize",
+  "past": "recognized",
+  "pastParticiple": "recognized"
  },
  {
-  "Present": "recollect",
-  "Past": "recollected",
-  "PastParticiple": "recollected"
+  "present": "recollect",
+  "past": "recollected",
+  "pastParticiple": "recollected"
  },
  {
-  "Present": "recur",
-  "Past": "recurred",
-  "PastParticiple": "recurred"
+  "present": "recur",
+  "past": "recurred",
+  "pastParticiple": "recurred"
  },
  {
-  "Present": "redo",
-  "Past": "redid",
-  "PastParticiple": "redone"
+  "present": "redo",
+  "past": "redid",
+  "pastParticiple": "redone"
  },
  {
-  "Present": "reduce",
-  "Past": "reduced",
-  "PastParticiple": "reduced"
+  "present": "reduce",
+  "past": "reduced",
+  "pastParticiple": "reduced"
  },
  {
-  "Present": "refer",
-  "Past": "referred",
-  "PastParticiple": "referred"
+  "present": "refer",
+  "past": "referred",
+  "pastParticiple": "referred"
  },
  {
-  "Present": "reflect",
-  "Past": "reflected",
-  "PastParticiple": "reflected"
+  "present": "reflect",
+  "past": "reflected",
+  "pastParticiple": "reflected"
  },
  {
-  "Present": "refuse",
-  "Past": "refused",
-  "PastParticiple": "refused"
+  "present": "refuse",
+  "past": "refused",
+  "pastParticiple": "refused"
  },
  {
-  "Present": "regard",
-  "Past": "regarded",
-  "PastParticiple": "regarded"
+  "present": "regard",
+  "past": "regarded",
+  "pastParticiple": "regarded"
  },
  {
-  "Present": "regret",
-  "Past": "regretted",
-  "PastParticiple": "regretted"
+  "present": "regret",
+  "past": "regretted",
+  "pastParticiple": "regretted"
  },
  {
-  "Present": "relate",
-  "Past": "related",
-  "PastParticiple": "related"
+  "present": "relate",
+  "past": "related",
+  "pastParticiple": "related"
  },
  {
-  "Present": "relax",
-  "Past": "relaxed",
-  "PastParticiple": "relaxed"
+  "present": "relax",
+  "past": "relaxed",
+  "pastParticiple": "relaxed"
  },
  {
-  "Present": "rely",
-  "Past": "relied",
-  "PastParticiple": "relied"
+  "present": "rely",
+  "past": "relied",
+  "pastParticiple": "relied"
  },
  {
-  "Present": "remain",
-  "Past": "remained",
-  "PastParticiple": "remained"
+  "present": "remain",
+  "past": "remained",
+  "pastParticiple": "remained"
  },
  {
-  "Present": "remake",
-  "Past": "remade",
-  "PastParticiple": "remade"
+  "present": "remake",
+  "past": "remade",
+  "pastParticiple": "remade"
  },
  {
-  "Present": "remove",
-  "Past": "removed",
-  "PastParticiple": "removed"
+  "present": "remove",
+  "past": "removed",
+  "pastParticiple": "removed"
  },
  {
-  "Present": "rend",
-  "Past": "rent",
-  "PastParticiple": "rent"
+  "present": "rend",
+  "past": "rent",
+  "pastParticiple": "rent"
  },
  {
-  "Present": "renew",
-  "Past": "renewed",
-  "PastParticiple": "renewed"
+  "present": "renew",
+  "past": "renewed",
+  "pastParticiple": "renewed"
  },
  {
-  "Present": "renounce",
-  "Past": "renounced",
-  "PastParticiple": "renounced"
+  "present": "renounce",
+  "past": "renounced",
+  "pastParticiple": "renounced"
  },
  {
-  "Present": "repair",
-  "Past": "repaired",
-  "PastParticiple": "repaired"
+  "present": "repair",
+  "past": "repaired",
+  "pastParticiple": "repaired"
  },
  {
-  "Present": "repeat",
-  "Past": "repeated",
-  "PastParticiple": "repeated"
+  "present": "repeat",
+  "past": "repeated",
+  "pastParticiple": "repeated"
  },
  {
-  "Present": "replace",
-  "Past": "replaced",
-  "PastParticiple": "replaced"
+  "present": "replace",
+  "past": "replaced",
+  "pastParticiple": "replaced"
  },
  {
-  "Present": "reply",
-  "Past": "replied",
-  "PastParticiple": "replied"
+  "present": "reply",
+  "past": "replied",
+  "pastParticiple": "replied"
  },
  {
-  "Present": "report",
-  "Past": "reported",
-  "PastParticiple": "reported"
+  "present": "report",
+  "past": "reported",
+  "pastParticiple": "reported"
  },
  {
-  "Present": "request",
-  "Past": "requested",
-  "PastParticiple": "requested"
+  "present": "request",
+  "past": "requested",
+  "pastParticiple": "requested"
  },
  {
-  "Present": "resell",
-  "Past": "resold",
-  "PastParticiple": "resold"
+  "present": "resell",
+  "past": "resold",
+  "pastParticiple": "resold"
  },
  {
-  "Present": "resemble",
-  "Past": "resembled",
-  "PastParticiple": "resembled"
+  "present": "resemble",
+  "past": "resembled",
+  "pastParticiple": "resembled"
  },
  {
-  "Present": "reset",
-  "Past": "reset",
-  "PastParticiple": "reset"
+  "present": "reset",
+  "past": "reset",
+  "pastParticiple": "reset"
  },
  {
-  "Present": "resist",
-  "Past": "resisted",
-  "PastParticiple": "resisted"
+  "present": "resist",
+  "past": "resisted",
+  "pastParticiple": "resisted"
  },
  {
-  "Present": "resolve",
-  "Past": "resolved",
-  "PastParticiple": "resolved"
+  "present": "resolve",
+  "past": "resolved",
+  "pastParticiple": "resolved"
  },
  {
-  "Present": "respect",
-  "Past": "respected",
-  "PastParticiple": "respected"
+  "present": "respect",
+  "past": "respected",
+  "pastParticiple": "respected"
  },
  {
-  "Present": "rest",
-  "Past": "rested",
-  "PastParticiple": "rested"
+  "present": "rest",
+  "past": "rested",
+  "pastParticiple": "rested"
  },
  {
-  "Present": "restrain",
-  "Past": "restrained",
-  "PastParticiple": "restrained"
+  "present": "restrain",
+  "past": "restrained",
+  "pastParticiple": "restrained"
  },
  {
-  "Present": "retain",
-  "Past": "retained",
-  "PastParticiple": "retained"
+  "present": "retain",
+  "past": "retained",
+  "pastParticiple": "retained"
  },
  {
-  "Present": "retch",
-  "Past": "retched",
-  "PastParticiple": "retched"
+  "present": "retch",
+  "past": "retched",
+  "pastParticiple": "retched"
  },
  {
-  "Present": "retire",
-  "Past": "retired",
-  "PastParticiple": "retired"
+  "present": "retire",
+  "past": "retired",
+  "pastParticiple": "retired"
  },
  {
-  "Present": "return",
-  "Past": "returned",
-  "PastParticiple": "returned"
+  "present": "return",
+  "past": "returned",
+  "pastParticiple": "returned"
  },
  {
-  "Present": "reuse",
-  "Past": "reused",
-  "PastParticiple": "reused"
+  "present": "reuse",
+  "past": "reused",
+  "pastParticiple": "reused"
  },
  {
-  "Present": "review",
-  "Past": "reviewed",
-  "PastParticiple": "reviewed"
+  "present": "review",
+  "past": "reviewed",
+  "pastParticiple": "reviewed"
  },
  {
-  "Present": "rewind",
-  "Past": "rewound",
-  "PastParticiple": "rewound"
+  "present": "rewind",
+  "past": "rewound",
+  "pastParticiple": "rewound"
  },
  {
-  "Present": "rid",
-  "Past": "rid",
-  "PastParticiple": "rid"
+  "present": "rid",
+  "past": "rid",
+  "pastParticiple": "rid"
  },
  {
-  "Present": "ride",
-  "Past": "rode",
-  "PastParticiple": "ridden"
+  "present": "ride",
+  "past": "rode",
+  "pastParticiple": "ridden"
  },
  {
-  "Present": "ring",
-  "Past": "rang",
-  "PastParticiple": "rung"
+  "present": "ring",
+  "past": "rang",
+  "pastParticiple": "rung"
  },
  {
-  "Present": "rise",
-  "Past": "rose",
-  "PastParticiple": "risen"
+  "present": "rise",
+  "past": "rose",
+  "pastParticiple": "risen"
  },
  {
-  "Present": "roar",
-  "Past": "roared",
-  "PastParticiple": "roared"
+  "present": "roar",
+  "past": "roared",
+  "pastParticiple": "roared"
  },
  {
-  "Present": "rob",
-  "Past": "robbed",
-  "PastParticiple": "robbed"
+  "present": "rob",
+  "past": "robbed",
+  "pastParticiple": "robbed"
  },
  {
-  "Present": "roll",
-  "Past": "rolled",
-  "PastParticiple": "rolled"
+  "present": "roll",
+  "past": "rolled",
+  "pastParticiple": "rolled"
  },
  {
-  "Present": "rot",
-  "Past": "rotted",
-  "PastParticiple": "rotted"
+  "present": "rot",
+  "past": "rotted",
+  "pastParticiple": "rotted"
  },
  {
-  "Present": "rub",
-  "Past": "rubbed",
-  "PastParticiple": "rubbed"
+  "present": "rub",
+  "past": "rubbed",
+  "pastParticiple": "rubbed"
  },
  {
-  "Present": "rule",
-  "Past": "ruled",
-  "PastParticiple": "ruled"
+  "present": "rule",
+  "past": "ruled",
+  "pastParticiple": "ruled"
  },
  {
-  "Present": "run",
-  "Past": "ran",
-  "PastParticiple": "run"
+  "present": "run",
+  "past": "ran",
+  "pastParticiple": "run"
  },
  null,
  null,
  {
-  "Present": "run",
-  "Past": "ran",
-  "PastParticiple": "run"
+  "present": "run",
+  "past": "ran",
+  "pastParticiple": "run"
  },
  {
-  "Present": "rush",
-  "Past": "rushed",
-  "PastParticiple": "rushed"
+  "present": "rush",
+  "past": "rushed",
+  "pastParticiple": "rushed"
  },
  {
-  "Present": "sabotage",
-  "Past": "sabotaged",
-  "PastParticiple": "sabotaged"
+  "present": "sabotage",
+  "past": "sabotaged",
+  "pastParticiple": "sabotaged"
  },
  {
-  "Present": "sack",
-  "Past": "sacked",
-  "PastParticiple": "sacked"
+  "present": "sack",
+  "past": "sacked",
+  "pastParticiple": "sacked"
  },
  {
-  "Present": "sacrifice",
-  "Past": "sacrificed",
-  "PastParticiple": "sacrificed"
+  "present": "sacrifice",
+  "past": "sacrificed",
+  "pastParticiple": "sacrificed"
  },
  {
-  "Present": "sadden",
-  "Past": "saddened",
-  "PastParticiple": "saddened"
+  "present": "sadden",
+  "past": "saddened",
+  "pastParticiple": "saddened"
  },
  {
-  "Present": "saddle",
-  "Past": "saddled",
-  "PastParticiple": "saddled"
+  "present": "saddle",
+  "past": "saddled",
+  "pastParticiple": "saddled"
  },
  {
-  "Present": "sag",
-  "Past": "sagged",
-  "PastParticiple": "sagged"
+  "present": "sag",
+  "past": "sagged",
+  "pastParticiple": "sagged"
  },
  {
-  "Present": "sail",
-  "Past": "sailed",
-  "PastParticiple": "sailed"
+  "present": "sail",
+  "past": "sailed",
+  "pastParticiple": "sailed"
  },
  {
-  "Present": "sally",
-  "Past": "sallied",
-  "PastParticiple": "sallied"
+  "present": "sally",
+  "past": "sallied",
+  "pastParticiple": "sallied"
  },
  {
-  "Present": "salute",
-  "Past": "saluted",
-  "PastParticiple": "saluted"
+  "present": "salute",
+  "past": "saluted",
+  "pastParticiple": "saluted"
  },
  {
-  "Present": "salvage",
-  "Past": "salvaged",
-  "PastParticiple": "salvaged"
+  "present": "salvage",
+  "past": "salvaged",
+  "pastParticiple": "salvaged"
  },
  {
-  "Present": "salve",
-  "Past": "salved",
-  "PastParticiple": "salved"
+  "present": "salve",
+  "past": "salved",
+  "pastParticiple": "salved"
  },
  {
-  "Present": "sample",
-  "Past": "sampled",
-  "PastParticiple": "sampled"
+  "present": "sample",
+  "past": "sampled",
+  "pastParticiple": "sampled"
  },
  {
-  "Present": "sanctify",
-  "Past": "sanctified",
-  "PastParticiple": "sanctified"
+  "present": "sanctify",
+  "past": "sanctified",
+  "pastParticiple": "sanctified"
  },
  {
-  "Present": "sanction",
-  "Past": "sanctioned",
-  "PastParticiple": "sanctioned"
+  "present": "sanction",
+  "past": "sanctioned",
+  "pastParticiple": "sanctioned"
  },
  {
-  "Present": "sap",
-  "Past": "sapped",
-  "PastParticiple": "sapped"
+  "present": "sap",
+  "past": "sapped",
+  "pastParticiple": "sapped"
  },
  {
-  "Present": "saponify",
-  "Past": "saponified",
-  "PastParticiple": "saponified"
+  "present": "saponify",
+  "past": "saponified",
+  "pastParticiple": "saponified"
  },
  {
-  "Present": "sash",
-  "Past": "sashed",
-  "PastParticiple": "sashed"
+  "present": "sash",
+  "past": "sashed",
+  "pastParticiple": "sashed"
  },
  {
-  "Present": "sashay",
-  "Past": "sashayed",
-  "PastParticiple": "sashayed"
+  "present": "sashay",
+  "past": "sashayed",
+  "pastParticiple": "sashayed"
  },
  {
-  "Present": "sass",
-  "Past": "sassed",
-  "PastParticiple": "sassed"
+  "present": "sass",
+  "past": "sassed",
+  "pastParticiple": "sassed"
  },
  {
-  "Present": "sate",
-  "Past": "sated",
-  "PastParticiple": "sated"
+  "present": "sate",
+  "past": "sated",
+  "pastParticiple": "sated"
  },
  {
-  "Present": "satiate",
-  "Past": "satiated",
-  "PastParticiple": "satiated"
+  "present": "satiate",
+  "past": "satiated",
+  "pastParticiple": "satiated"
  },
  {
-  "Present": "satirise",
-  "Past": "satirised",
-  "PastParticiple": "satirised"
+  "present": "satirise",
+  "past": "satirised",
+  "pastParticiple": "satirised"
  },
  {
-  "Present": "satisfy",
-  "Past": "satisfied",
-  "PastParticiple": "satisfied"
+  "present": "satisfy",
+  "past": "satisfied",
+  "pastParticiple": "satisfied"
  },
  {
-  "Present": "saturate",
-  "Past": "saturated",
-  "PastParticiple": "saturated"
+  "present": "saturate",
+  "past": "saturated",
+  "pastParticiple": "saturated"
  },
  {
-  "Present": "saunter",
-  "Past": "sauntered",
-  "PastParticiple": "sauntered"
+  "present": "saunter",
+  "past": "sauntered",
+  "pastParticiple": "sauntered"
  },
  {
-  "Present": "save",
-  "Past": "saved",
-  "PastParticiple": "saved"
+  "present": "save",
+  "past": "saved",
+  "pastParticiple": "saved"
  },
  {
-  "Present": "savor",
-  "Past": "savored",
-  "PastParticiple": "savored"
+  "present": "savor",
+  "past": "savored",
+  "pastParticiple": "savored"
  },
  {
-  "Present": "savvy",
-  "Past": "savvied",
-  "PastParticiple": "savvied"
+  "present": "savvy",
+  "past": "savvied",
+  "pastParticiple": "savvied"
  },
  {
-  "Present": "saw",
-  "Past": "sawed",
-  "PastParticiple": "sawn"
+  "present": "saw",
+  "past": "sawed",
+  "pastParticiple": "sawn"
  },
  {
-  "Present": "say",
-  "Past": "said",
-  "PastParticiple": "said"
+  "present": "say",
+  "past": "said",
+  "pastParticiple": "said"
  },
  {
-  "Present": "scab",
-  "Past": "scabbed",
-  "PastParticiple": "scabbed"
+  "present": "scab",
+  "past": "scabbed",
+  "pastParticiple": "scabbed"
  },
  {
-  "Present": "scabble",
-  "Past": "scabbled",
-  "PastParticiple": "scabbled"
+  "present": "scabble",
+  "past": "scabbled",
+  "pastParticiple": "scabbled"
  },
  {
-  "Present": "scald",
-  "Past": "scalded",
-  "PastParticiple": "scalded"
+  "present": "scald",
+  "past": "scalded",
+  "pastParticiple": "scalded"
  },
  {
-  "Present": "scale",
-  "Past": "scaled",
-  "PastParticiple": "scaled"
+  "present": "scale",
+  "past": "scaled",
+  "pastParticiple": "scaled"
  },
  {
-  "Present": "scam",
-  "Past": "scammed",
-  "PastParticiple": "scammed"
+  "present": "scam",
+  "past": "scammed",
+  "pastParticiple": "scammed"
  },
  {
-  "Present": "scan",
-  "Past": "scanned",
-  "PastParticiple": "scanned"
+  "present": "scan",
+  "past": "scanned",
+  "pastParticiple": "scanned"
  },
  {
-  "Present": "scant",
-  "Past": "scanted",
-  "PastParticiple": "scanted"
+  "present": "scant",
+  "past": "scanted",
+  "pastParticiple": "scanted"
  },
  {
-  "Present": "scar",
-  "Past": "scarred",
-  "PastParticiple": "scarred"
+  "present": "scar",
+  "past": "scarred",
+  "pastParticiple": "scarred"
  },
  {
-  "Present": "scare",
-  "Past": "scared",
-  "PastParticiple": "scared"
+  "present": "scare",
+  "past": "scared",
+  "pastParticiple": "scared"
  },
  {
-  "Present": "scarify",
-  "Past": "scarified",
-  "PastParticiple": "scarified"
+  "present": "scarify",
+  "past": "scarified",
+  "pastParticiple": "scarified"
  },
  {
-  "Present": "scarp",
-  "Past": "scarped",
-  "PastParticiple": "scarped"
+  "present": "scarp",
+  "past": "scarped",
+  "pastParticiple": "scarped"
  },
  {
-  "Present": "scat",
-  "Past": "scatted",
-  "PastParticiple": "scatted"
+  "present": "scat",
+  "past": "scatted",
+  "pastParticiple": "scatted"
  },
  {
-  "Present": "scatter",
-  "Past": "scattered",
-  "PastParticiple": "scattered"
+  "present": "scatter",
+  "past": "scattered",
+  "pastParticiple": "scattered"
  },
  {
-  "Present": "scold",
-  "Past": "scolded",
-  "PastParticiple": "scolded"
+  "present": "scold",
+  "past": "scolded",
+  "pastParticiple": "scolded"
  },
  {
-  "Present": "scorch",
-  "Past": "scorched",
-  "PastParticiple": "scorched"
+  "present": "scorch",
+  "past": "scorched",
+  "pastParticiple": "scorched"
  },
  {
-  "Present": "scowl",
-  "Past": "scowled",
-  "PastParticiple": "scowled"
+  "present": "scowl",
+  "past": "scowled",
+  "pastParticiple": "scowled"
  },
  {
-  "Present": "scrawl",
-  "Past": "scrawled",
-  "PastParticiple": "scrawled"
+  "present": "scrawl",
+  "past": "scrawled",
+  "pastParticiple": "scrawled"
  },
  {
-  "Present": "scream",
-  "Past": "screamed",
-  "PastParticiple": "screamed"
+  "present": "scream",
+  "past": "screamed",
+  "pastParticiple": "screamed"
  },
  {
-  "Present": "screw",
-  "Past": "screwed",
-  "PastParticiple": "screwed"
+  "present": "screw",
+  "past": "screwed",
+  "pastParticiple": "screwed"
  },
  {
-  "Present": "scrub",
-  "Past": "scrubbed",
-  "PastParticiple": "scrubbed"
+  "present": "scrub",
+  "past": "scrubbed",
+  "pastParticiple": "scrubbed"
  },
  {
-  "Present": "search",
-  "Past": "searched",
-  "PastParticiple": "searched"
+  "present": "search",
+  "past": "searched",
+  "pastParticiple": "searched"
  },
  {
-  "Present": "seat",
-  "Past": "seated",
-  "PastParticiple": "seated"
+  "present": "seat",
+  "past": "seated",
+  "pastParticiple": "seated"
  },
  {
-  "Present": "secure",
-  "Past": "secured",
-  "PastParticiple": "secured"
+  "present": "secure",
+  "past": "secured",
+  "pastParticiple": "secured"
  },
  {
-  "Present": "see",
-  "Past": "saw",
-  "PastParticiple": "seen"
+  "present": "see",
+  "past": "saw",
+  "pastParticiple": "seen"
  },
  {
-  "Present": "seek",
-  "Past": "sought",
-  "PastParticiple": "sought"
+  "present": "seek",
+  "past": "sought",
+  "pastParticiple": "sought"
  },
  {
-  "Present": "seem",
-  "Past": "seemed",
-  "PastParticiple": "seemed"
+  "present": "seem",
+  "past": "seemed",
+  "pastParticiple": "seemed"
  },
  {
-  "Present": "seize",
-  "Past": "seized",
-  "PastParticiple": "seized"
+  "present": "seize",
+  "past": "seized",
+  "pastParticiple": "seized"
  },
  {
-  "Present": "select",
-  "Past": "selected",
-  "PastParticiple": "selected"
+  "present": "select",
+  "past": "selected",
+  "pastParticiple": "selected"
  },
  {
-  "Present": "sell",
-  "Past": "sold",
-  "PastParticiple": "sold"
+  "present": "sell",
+  "past": "sold",
+  "pastParticiple": "sold"
  },
  {
-  "Present": "send",
-  "Past": "sent",
-  "PastParticiple": "sent"
+  "present": "send",
+  "past": "sent",
+  "pastParticiple": "sent"
  },
  {
-  "Present": "sentence",
-  "Past": "sentenced",
-  "PastParticiple": "sentenced"
+  "present": "sentence",
+  "past": "sentenced",
+  "pastParticiple": "sentenced"
  },
  {
-  "Present": "separate",
-  "Past": "separated",
-  "PastParticiple": "separated"
+  "present": "separate",
+  "past": "separated",
+  "pastParticiple": "separated"
  },
  {
-  "Present": "set",
-  "Past": "set",
-  "PastParticiple": "set"
+  "present": "set",
+  "past": "set",
+  "pastParticiple": "set"
  },
  {
-  "Present": "sever",
-  "Past": "severed",
-  "PastParticiple": "severed"
+  "present": "sever",
+  "past": "severed",
+  "pastParticiple": "severed"
  },
  {
-  "Present": "sew",
-  "Past": "sewed",
-  "PastParticiple": "sewn"
+  "present": "sew",
+  "past": "sewed",
+  "pastParticiple": "sewn"
  },
  {
-  "Present": "shake",
-  "Past": "shook",
-  "PastParticiple": "shaken"
+  "present": "shake",
+  "past": "shook",
+  "pastParticiple": "shaken"
  },
  {
-  "Present": "shape",
-  "Past": "shaped",
-  "PastParticiple": "shaped"
+  "present": "shape",
+  "past": "shaped",
+  "pastParticiple": "shaped"
  },
  {
-  "Present": "share",
-  "Past": "shared",
-  "PastParticiple": "shared"
+  "present": "share",
+  "past": "shared",
+  "pastParticiple": "shared"
  },
  {
-  "Present": "shatter",
-  "Past": "shattered",
-  "PastParticiple": "shattered"
+  "present": "shatter",
+  "past": "shattered",
+  "pastParticiple": "shattered"
  },
  {
-  "Present": "shave",
-  "Past": "shove",
-  "PastParticiple": "shaven"
+  "present": "shave",
+  "past": "shove",
+  "pastParticiple": "shaven"
  },
  {
-  "Present": "shear",
-  "Past": "shore",
-  "PastParticiple": "shorn"
+  "present": "shear",
+  "past": "shore",
+  "pastParticiple": "shorn"
  },
  {
-  "Present": "shed",
-  "Past": "shed",
-  "PastParticiple": "shed"
+  "present": "shed",
+  "past": "shed",
+  "pastParticiple": "shed"
  },
  {
-  "Present": "shine",
-  "Past": "shone",
-  "PastParticiple": "shone"
+  "present": "shine",
+  "past": "shone",
+  "pastParticiple": "shone"
  },
  {
-  "Present": "shirk",
-  "Past": "shirked",
-  "PastParticiple": "shirked"
+  "present": "shirk",
+  "past": "shirked",
+  "pastParticiple": "shirked"
  },
  {
-  "Present": "shit",
-  "Past": "shit",
-  "PastParticiple": "shit"
+  "present": "shit",
+  "past": "shit",
+  "pastParticiple": "shit"
  },
  {
-  "Present": "shiver",
-  "Past": "shivered",
-  "PastParticiple": "shivered"
+  "present": "shiver",
+  "past": "shivered",
+  "pastParticiple": "shivered"
  },
  {
-  "Present": "shock",
-  "Past": "shocked",
-  "PastParticiple": "shocked"
+  "present": "shock",
+  "past": "shocked",
+  "pastParticiple": "shocked"
  },
  {
-  "Present": "shoe",
-  "Past": "shod",
-  "PastParticiple": "shod"
+  "present": "shoe",
+  "past": "shod",
+  "pastParticiple": "shod"
  },
  {
-  "Present": "shoot",
-  "Past": "shot",
-  "PastParticiple": "shot"
+  "present": "shoot",
+  "past": "shot",
+  "pastParticiple": "shot"
  },
  {
-  "Present": "shorten",
-  "Past": "shortened",
-  "PastParticiple": "shortened"
+  "present": "shorten",
+  "past": "shortened",
+  "pastParticiple": "shortened"
  },
  {
-  "Present": "shout",
-  "Past": "shouted",
-  "PastParticiple": "shouted"
+  "present": "shout",
+  "past": "shouted",
+  "pastParticiple": "shouted"
  },
  {
-  "Present": "show",
-  "Past": "showed",
-  "PastParticiple": "shown"
+  "present": "show",
+  "past": "showed",
+  "pastParticiple": "shown"
  },
  {
-  "Present": "shrink",
-  "Past": "shrank",
-  "PastParticiple": "shrunk"
+  "present": "shrink",
+  "past": "shrank",
+  "pastParticiple": "shrunk"
  },
  {
-  "Present": "shun",
-  "Past": "shunned",
-  "PastParticiple": "shunned"
+  "present": "shun",
+  "past": "shunned",
+  "pastParticiple": "shunned"
  },
  {
-  "Present": "shut",
-  "Past": "shut",
-  "PastParticiple": "shut"
+  "present": "shut",
+  "past": "shut",
+  "pastParticiple": "shut"
  },
  {
-  "Present": "sight",
-  "Past": "sighted",
-  "PastParticiple": "sighted"
+  "present": "sight",
+  "past": "sighted",
+  "pastParticiple": "sighted"
  },
  {
-  "Present": "signal",
-  "Past": "signalled",
-  "PastParticiple": "signalled"
+  "present": "signal",
+  "past": "signalled",
+  "pastParticiple": "signalled"
  },
  {
-  "Present": "signify",
-  "Past": "signified",
-  "PastParticiple": "signified"
+  "present": "signify",
+  "past": "signified",
+  "pastParticiple": "signified"
  },
  {
-  "Present": "sing",
-  "Past": "sang",
-  "PastParticiple": "sung"
+  "present": "sing",
+  "past": "sang",
+  "pastParticiple": "sung"
  },
  {
-  "Present": "sink",
-  "Past": "sank",
-  "PastParticiple": "sunk"
+  "present": "sink",
+  "past": "sank",
+  "pastParticiple": "sunk"
  },
  {
-  "Present": "sip",
-  "Past": "sipped",
-  "PastParticiple": "sipped"
+  "present": "sip",
+  "past": "sipped",
+  "pastParticiple": "sipped"
  },
  {
-  "Present": "sit",
-  "Past": "sat",
-  "PastParticiple": "sat"
+  "present": "sit",
+  "past": "sat",
+  "pastParticiple": "sat"
  },
  {
-  "Present": "ski",
-  "Past": "skied",
-  "PastParticiple": "skied"
+  "present": "ski",
+  "past": "skied",
+  "pastParticiple": "skied"
  },
  {
-  "Present": "skid",
-  "Past": "skidded",
-  "PastParticiple": "skidded"
+  "present": "skid",
+  "past": "skidded",
+  "pastParticiple": "skidded"
  },
  {
-  "Present": "slam",
-  "Past": "slammed",
-  "PastParticiple": "slammed"
+  "present": "slam",
+  "past": "slammed",
+  "pastParticiple": "slammed"
  },
  {
-  "Present": "slay",
-  "Past": "slew",
-  "PastParticiple": "slain"
+  "present": "slay",
+  "past": "slew",
+  "pastParticiple": "slain"
  },
  {
-  "Present": "sleep",
-  "Past": "slept",
-  "PastParticiple": "slept"
+  "present": "sleep",
+  "past": "slept",
+  "pastParticiple": "slept"
  },
  {
-  "Present": "slide",
-  "Past": "slid",
-  "PastParticiple": "slid\/slide"
+  "present": "slide",
+  "past": "slid",
+  "pastParticiple": "slid\/slide"
  },
  {
-  "Present": "slim",
-  "Past": "slimmed",
-  "PastParticiple": "slimmed"
+  "present": "slim",
+  "past": "slimmed",
+  "pastParticiple": "slimmed"
  },
  {
-  "Present": "sling",
-  "Past": "slung",
-  "PastParticiple": "slung"
+  "present": "sling",
+  "past": "slung",
+  "pastParticiple": "slung"
  },
  {
-  "Present": "slink",
-  "Past": "slunk",
-  "PastParticiple": "slunk"
+  "present": "slink",
+  "past": "slunk",
+  "pastParticiple": "slunk"
  },
  {
-  "Present": "slip",
-  "Past": "slipped",
-  "PastParticiple": "slipped"
+  "present": "slip",
+  "past": "slipped",
+  "pastParticiple": "slipped"
  },
  {
-  "Present": "slit",
-  "Past": "slit",
-  "PastParticiple": "slit"
+  "present": "slit",
+  "past": "slit",
+  "pastParticiple": "slit"
  },
  {
-  "Present": "smash",
-  "Past": "smashed",
-  "PastParticiple": "smashed"
+  "present": "smash",
+  "past": "smashed",
+  "pastParticiple": "smashed"
  },
  {
-  "Present": "smell",
-  "Past": "smelt",
-  "PastParticiple": "smelt"
+  "present": "smell",
+  "past": "smelt",
+  "pastParticiple": "smelt"
  },
  {
-  "Present": "smile",
-  "Past": "smiled",
-  "PastParticiple": "smiled"
+  "present": "smile",
+  "past": "smiled",
+  "pastParticiple": "smiled"
  },
  {
-  "Present": "smite",
-  "Past": "smote",
-  "PastParticiple": "smitten"
+  "present": "smite",
+  "past": "smote",
+  "pastParticiple": "smitten"
  },
  {
-  "Present": "smooth",
-  "Past": "smoothed",
-  "PastParticiple": "smoothed"
+  "present": "smooth",
+  "past": "smoothed",
+  "pastParticiple": "smoothed"
  },
  {
-  "Present": "smother",
-  "Past": "smothered",
-  "PastParticiple": "smothered"
+  "present": "smother",
+  "past": "smothered",
+  "pastParticiple": "smothered"
  },
  {
-  "Present": "snap",
-  "Past": "snapped",
-  "PastParticiple": "snapped"
+  "present": "snap",
+  "past": "snapped",
+  "pastParticiple": "snapped"
  },
  {
-  "Present": "snatch",
-  "Past": "snatched",
-  "PastParticiple": "snatched"
+  "present": "snatch",
+  "past": "snatched",
+  "pastParticiple": "snatched"
  },
  {
-  "Present": "sneak",
-  "Past": "sneaked",
-  "PastParticiple": "sneaked"
+  "present": "sneak",
+  "past": "sneaked",
+  "pastParticiple": "sneaked"
  },
  {
-  "Present": "sneeze",
-  "Past": "sneezed",
-  "PastParticiple": "sneezed"
+  "present": "sneeze",
+  "past": "sneezed",
+  "pastParticiple": "sneezed"
  },
  {
-  "Present": "sniff",
-  "Past": "sniffed",
-  "PastParticiple": "sniffed"
+  "present": "sniff",
+  "past": "sniffed",
+  "pastParticiple": "sniffed"
  },
  {
-  "Present": "soar",
-  "Past": "soared",
-  "PastParticiple": "soared"
+  "present": "soar",
+  "past": "soared",
+  "pastParticiple": "soared"
  },
  {
-  "Present": "sob",
-  "Past": "sobbed",
-  "PastParticiple": "sobbed"
+  "present": "sob",
+  "past": "sobbed",
+  "pastParticiple": "sobbed"
  },
  {
-  "Present": "solicit",
-  "Past": "solicited",
-  "PastParticiple": "solicited"
+  "present": "solicit",
+  "past": "solicited",
+  "pastParticiple": "solicited"
  },
  {
-  "Present": "solve",
-  "Past": "solved",
-  "PastParticiple": "solved"
+  "present": "solve",
+  "past": "solved",
+  "pastParticiple": "solved"
  },
  {
-  "Present": "soothe",
-  "Past": "soothed",
-  "PastParticiple": "soothed"
+  "present": "soothe",
+  "past": "soothed",
+  "pastParticiple": "soothed"
  },
  {
-  "Present": "sort",
-  "Past": "sorted",
-  "PastParticiple": "sorted"
+  "present": "sort",
+  "past": "sorted",
+  "pastParticiple": "sorted"
  },
  {
-  "Present": "sow",
-  "Past": "sowed",
-  "PastParticiple": "sowed"
+  "present": "sow",
+  "past": "sowed",
+  "pastParticiple": "sowed"
  },
  {
-  "Present": "sparkle",
-  "Past": "sparkled",
-  "PastParticiple": "sparkled"
+  "present": "sparkle",
+  "past": "sparkled",
+  "pastParticiple": "sparkled"
  },
  {
-  "Present": "speak",
-  "Past": "spoke",
-  "PastParticiple": "spoken"
+  "present": "speak",
+  "past": "spoke",
+  "pastParticiple": "spoken"
  },
  {
-  "Present": "speed",
-  "Past": "sped",
-  "PastParticiple": "sped"
+  "present": "speed",
+  "past": "sped",
+  "pastParticiple": "sped"
  },
  {
-  "Present": "spell",
-  "Past": "spelt",
-  "PastParticiple": "spelt"
+  "present": "spell",
+  "past": "spelt",
+  "pastParticiple": "spelt"
  },
  {
-  "Present": "spend",
-  "Past": "spent",
-  "PastParticiple": "spent"
+  "present": "spend",
+  "past": "spent",
+  "pastParticiple": "spent"
  },
  {
-  "Present": "spill",
-  "Past": "spilt",
-  "PastParticiple": "spilt"
+  "present": "spill",
+  "past": "spilt",
+  "pastParticiple": "spilt"
  },
  {
-  "Present": "spin",
-  "Past": "span\/spun",
-  "PastParticiple": "spun"
+  "present": "spin",
+  "past": "span\/spun",
+  "pastParticiple": "spun"
  },
  {
-  "Present": "spit",
-  "Past": "spat\/spit",
-  "PastParticiple": "spat\/spit"
+  "present": "spit",
+  "past": "spat\/spit",
+  "pastParticiple": "spat\/spit"
  },
  {
-  "Present": "split",
-  "Past": "split",
-  "PastParticiple": "split"
+  "present": "split",
+  "past": "split",
+  "pastParticiple": "split"
  },
  {
-  "Present": "spoil",
-  "Past": "spoilt",
-  "PastParticiple": "spoilt"
+  "present": "spoil",
+  "past": "spoilt",
+  "pastParticiple": "spoilt"
  },
  {
-  "Present": "spray",
-  "Past": "sprayed",
-  "PastParticiple": "sprayed"
+  "present": "spray",
+  "past": "sprayed",
+  "pastParticiple": "sprayed"
  },
  {
-  "Present": "spread",
-  "Past": "spread",
-  "PastParticiple": "spread"
+  "present": "spread",
+  "past": "spread",
+  "pastParticiple": "spread"
  },
  {
-  "Present": "spring",
-  "Past": "sprang",
-  "PastParticiple": "sprung"
+  "present": "spring",
+  "past": "sprang",
+  "pastParticiple": "sprung"
  },
  {
-  "Present": "sprout",
-  "Past": "sprouted",
-  "PastParticiple": "sprouted"
+  "present": "sprout",
+  "past": "sprouted",
+  "pastParticiple": "sprouted"
  },
  {
-  "Present": "squeeze",
-  "Past": "squeezed",
-  "PastParticiple": "squeezed"
+  "present": "squeeze",
+  "past": "squeezed",
+  "pastParticiple": "squeezed"
  },
  {
-  "Present": "stand",
-  "Past": "stood",
-  "PastParticiple": "stood"
+  "present": "stand",
+  "past": "stood",
+  "pastParticiple": "stood"
  },
  {
-  "Present": "stare",
-  "Past": "stared",
-  "PastParticiple": "stared"
+  "present": "stare",
+  "past": "stared",
+  "pastParticiple": "stared"
  },
  {
-  "Present": "start",
-  "Past": "started",
-  "PastParticiple": "started"
+  "present": "start",
+  "past": "started",
+  "pastParticiple": "started"
  },
  {
-  "Present": "state",
-  "Past": "stated",
-  "PastParticiple": "stated"
+  "present": "state",
+  "past": "stated",
+  "pastParticiple": "stated"
  },
  {
-  "Present": "stay",
-  "Past": "stayed",
-  "PastParticiple": "stayed"
+  "present": "stay",
+  "past": "stayed",
+  "pastParticiple": "stayed"
  },
  {
-  "Present": "steal",
-  "Past": "stole",
-  "PastParticiple": "stolen"
+  "present": "steal",
+  "past": "stole",
+  "pastParticiple": "stolen"
  },
  {
-  "Present": "steep",
-  "Past": "steeped",
-  "PastParticiple": "steeped"
+  "present": "steep",
+  "past": "steeped",
+  "pastParticiple": "steeped"
  },
  {
-  "Present": "stem",
-  "Past": "stemmed",
-  "PastParticiple": "stemmed"
+  "present": "stem",
+  "past": "stemmed",
+  "pastParticiple": "stemmed"
  },
  {
-  "Present": "step",
-  "Past": "stepped",
-  "PastParticiple": "stepped"
+  "present": "step",
+  "past": "stepped",
+  "pastParticiple": "stepped"
  },
  {
-  "Present": "sterilize",
-  "Past": "sterilized",
-  "PastParticiple": "sterilized"
+  "present": "sterilize",
+  "past": "sterilized",
+  "pastParticiple": "sterilized"
  },
  {
-  "Present": "stick",
-  "Past": "stuck",
-  "PastParticiple": "stuck"
+  "present": "stick",
+  "past": "stuck",
+  "pastParticiple": "stuck"
  },
  {
-  "Present": "stimulate",
-  "Past": "stimulated",
-  "PastParticiple": "stimulated"
+  "present": "stimulate",
+  "past": "stimulated",
+  "pastParticiple": "stimulated"
  },
  {
-  "Present": "sting",
-  "Past": "stung",
-  "PastParticiple": "stung"
+  "present": "sting",
+  "past": "stung",
+  "pastParticiple": "stung"
  },
  {
-  "Present": "stink",
-  "Past": "stank",
-  "PastParticiple": "stunk"
+  "present": "stink",
+  "past": "stank",
+  "pastParticiple": "stunk"
  },
  {
-  "Present": "stir",
-  "Past": "stirred",
-  "PastParticiple": "stirred"
+  "present": "stir",
+  "past": "stirred",
+  "pastParticiple": "stirred"
  },
  {
-  "Present": "stitch",
-  "Past": "stitched",
-  "PastParticiple": "stitched"
+  "present": "stitch",
+  "past": "stitched",
+  "pastParticiple": "stitched"
  },
  {
-  "Present": "stoop",
-  "Past": "stooped",
-  "PastParticiple": "stooped"
+  "present": "stoop",
+  "past": "stooped",
+  "pastParticiple": "stooped"
  },
  {
-  "Present": "stop",
-  "Past": "stopped",
-  "PastParticiple": "stopped"
+  "present": "stop",
+  "past": "stopped",
+  "pastParticiple": "stopped"
  },
  {
-  "Present": "store",
-  "Past": "stored",
-  "PastParticiple": "stored"
+  "present": "store",
+  "past": "stored",
+  "pastParticiple": "stored"
  },
  {
-  "Present": "strain",
-  "Past": "strained",
-  "PastParticiple": "strained"
+  "present": "strain",
+  "past": "strained",
+  "pastParticiple": "strained"
  },
  {
-  "Present": "stray",
-  "Past": "strayed",
-  "PastParticiple": "strayed"
+  "present": "stray",
+  "past": "strayed",
+  "pastParticiple": "strayed"
  },
  {
-  "Present": "stress",
-  "Past": "stressed",
-  "PastParticiple": "stressed"
+  "present": "stress",
+  "past": "stressed",
+  "pastParticiple": "stressed"
  },
  {
-  "Present": "stretch",
-  "Past": "stretched",
-  "PastParticiple": "stretched"
+  "present": "stretch",
+  "past": "stretched",
+  "pastParticiple": "stretched"
  },
  {
-  "Present": "strew",
-  "Past": "strewed",
-  "PastParticiple": "strewn"
+  "present": "strew",
+  "past": "strewed",
+  "pastParticiple": "strewn"
  },
  {
-  "Present": "stride",
-  "Past": "strode",
-  "PastParticiple": "stridden"
+  "present": "stride",
+  "past": "strode",
+  "pastParticiple": "stridden"
  },
  {
-  "Present": "strike",
-  "Past": "struck",
-  "PastParticiple": "struck\/stricken"
+  "present": "strike",
+  "past": "struck",
+  "pastParticiple": "struck\/stricken"
  },
  {
-  "Present": "string",
-  "Past": "strung",
-  "PastParticiple": "strung"
+  "present": "string",
+  "past": "strung",
+  "pastParticiple": "strung"
  },
  {
-  "Present": "strive",
-  "Past": "strove",
-  "PastParticiple": "striven"
+  "present": "strive",
+  "past": "strove",
+  "pastParticiple": "striven"
  },
  {
-  "Present": "study",
-  "Past": "studied",
-  "PastParticiple": "studied"
+  "present": "study",
+  "past": "studied",
+  "pastParticiple": "studied"
  },
  {
-  "Present": "submit",
-  "Past": "submitted",
-  "PastParticiple": "submitted"
+  "present": "submit",
+  "past": "submitted",
+  "pastParticiple": "submitted"
  },
  {
-  "Present": "subscribe",
-  "Past": "subscribed",
-  "PastParticiple": "subscribed"
+  "present": "subscribe",
+  "past": "subscribed",
+  "pastParticiple": "subscribed"
  },
  {
-  "Present": "subtract",
-  "Past": "subtracted",
-  "PastParticiple": "subtracted"
+  "present": "subtract",
+  "past": "subtracted",
+  "pastParticiple": "subtracted"
  },
  {
-  "Present": "succeed",
-  "Past": "succeeded",
-  "PastParticiple": "succeeded"
+  "present": "succeed",
+  "past": "succeeded",
+  "pastParticiple": "succeeded"
  },
  {
-  "Present": "suck",
-  "Past": "sucked",
-  "PastParticiple": "sucked"
+  "present": "suck",
+  "past": "sucked",
+  "pastParticiple": "sucked"
  },
  {
-  "Present": "suffer",
-  "Past": "suffered",
-  "PastParticiple": "suffered"
+  "present": "suffer",
+  "past": "suffered",
+  "pastParticiple": "suffered"
  },
  {
-  "Present": "suggest",
-  "Past": "suggested",
-  "PastParticiple": "suggested"
+  "present": "suggest",
+  "past": "suggested",
+  "pastParticiple": "suggested"
  },
  {
-  "Present": "summon",
-  "Past": "summoned",
-  "PastParticiple": "summoned"
+  "present": "summon",
+  "past": "summoned",
+  "pastParticiple": "summoned"
  },
  {
-  "Present": "supply",
-  "Past": "supplied",
-  "PastParticiple": "supplied"
+  "present": "supply",
+  "past": "supplied",
+  "pastParticiple": "supplied"
  },
  {
-  "Present": "support",
-  "Past": "supported",
-  "PastParticiple": "supported"
+  "present": "support",
+  "past": "supported",
+  "pastParticiple": "supported"
  },
  {
-  "Present": "suppose",
-  "Past": "supposed",
-  "PastParticiple": "supposed"
+  "present": "suppose",
+  "past": "supposed",
+  "pastParticiple": "supposed"
  },
  {
-  "Present": "surge",
-  "Past": "surged",
-  "PastParticiple": "surged"
+  "present": "surge",
+  "past": "surged",
+  "pastParticiple": "surged"
  },
  {
-  "Present": "surmise",
-  "Past": "surmised",
-  "PastParticiple": "surmised"
+  "present": "surmise",
+  "past": "surmised",
+  "pastParticiple": "surmised"
  },
  {
-  "Present": "surpass",
-  "Past": "surpassed",
-  "PastParticiple": "surpassed"
+  "present": "surpass",
+  "past": "surpassed",
+  "pastParticiple": "surpassed"
  },
  {
-  "Present": "surround",
-  "Past": "surrounded",
-  "PastParticiple": "surrounded"
+  "present": "surround",
+  "past": "surrounded",
+  "pastParticiple": "surrounded"
  },
  {
-  "Present": "survey",
-  "Past": "surveyed",
-  "PastParticiple": "surveyed"
+  "present": "survey",
+  "past": "surveyed",
+  "pastParticiple": "surveyed"
  },
  {
-  "Present": "survive",
-  "Past": "survived",
-  "PastParticiple": "survived"
+  "present": "survive",
+  "past": "survived",
+  "pastParticiple": "survived"
  },
  {
-  "Present": "swallow",
-  "Past": "swallowed",
-  "PastParticiple": "swallowed"
+  "present": "swallow",
+  "past": "swallowed",
+  "pastParticiple": "swallowed"
  },
  {
-  "Present": "sway",
-  "Past": "swayed",
-  "PastParticiple": "swayed"
+  "present": "sway",
+  "past": "swayed",
+  "pastParticiple": "swayed"
  },
  {
-  "Present": "swear",
-  "Past": "swore",
-  "PastParticiple": "sworn"
+  "present": "swear",
+  "past": "swore",
+  "pastParticiple": "sworn"
  },
  {
-  "Present": "sweat",
-  "Past": "sweat",
-  "PastParticiple": "sweat"
+  "present": "sweat",
+  "past": "sweat",
+  "pastParticiple": "sweat"
  },
  {
-  "Present": "sweep",
-  "Past": "swept",
-  "PastParticiple": "swept"
+  "present": "sweep",
+  "past": "swept",
+  "pastParticiple": "swept"
  },
  {
-  "Present": "swell",
-  "Past": "swelled",
-  "PastParticiple": "swollen"
+  "present": "swell",
+  "past": "swelled",
+  "pastParticiple": "swollen"
  },
  {
-  "Present": "swim",
-  "Past": "swam",
-  "PastParticiple": "swum"
+  "present": "swim",
+  "past": "swam",
+  "pastParticiple": "swum"
  },
  {
-  "Present": "swing",
-  "Past": "swung",
-  "PastParticiple": "swung"
+  "present": "swing",
+  "past": "swung",
+  "pastParticiple": "swung"
  },
  {
-  "Present": "swot",
-  "Past": "swotted",
-  "PastParticiple": "swotted"
+  "present": "swot",
+  "past": "swotted",
+  "pastParticiple": "swotted"
  },
  {
-  "Present": "take",
-  "Past": "took",
-  "PastParticiple": "taken"
+  "present": "take",
+  "past": "took",
+  "pastParticiple": "taken"
  },
  {
-  "Present": "talk",
-  "Past": "talked",
-  "PastParticiple": "talked"
+  "present": "talk",
+  "past": "talked",
+  "pastParticiple": "talked"
  },
  {
-  "Present": "tap",
-  "Past": "tapped",
-  "PastParticiple": "tapped"
+  "present": "tap",
+  "past": "tapped",
+  "pastParticiple": "tapped"
  },
  {
-  "Present": "taste",
-  "Past": "tasted",
-  "PastParticiple": "tasted"
+  "present": "taste",
+  "past": "tasted",
+  "pastParticiple": "tasted"
  },
  {
-  "Present": "tax",
-  "Past": "taxed",
-  "PastParticiple": "taxed"
+  "present": "tax",
+  "past": "taxed",
+  "pastParticiple": "taxed"
  },
  {
-  "Present": "teach",
-  "Past": "taught",
-  "PastParticiple": "taught"
+  "present": "teach",
+  "past": "taught",
+  "pastParticiple": "taught"
  },
  {
-  "Present": "tear",
-  "Past": "tore",
-  "PastParticiple": "torn"
+  "present": "tear",
+  "past": "tore",
+  "pastParticiple": "torn"
  },
  {
-  "Present": "tee",
-  "Past": "teed",
-  "PastParticiple": "teed"
+  "present": "tee",
+  "past": "teed",
+  "pastParticiple": "teed"
  },
  {
-  "Present": "tell",
-  "Past": "told",
-  "PastParticiple": "told"
+  "present": "tell",
+  "past": "told",
+  "pastParticiple": "told"
  },
  {
-  "Present": "tempt",
-  "Past": "tempted",
-  "PastParticiple": "tempted"
+  "present": "tempt",
+  "past": "tempted",
+  "pastParticiple": "tempted"
  },
  {
-  "Present": "tend",
-  "Past": "tended",
-  "PastParticiple": "tended"
+  "present": "tend",
+  "past": "tended",
+  "pastParticiple": "tended"
  },
  {
-  "Present": "terminate",
-  "Past": "terminated",
-  "PastParticiple": "terminated"
+  "present": "terminate",
+  "past": "terminated",
+  "pastParticiple": "terminated"
  },
  {
-  "Present": "terrify",
-  "Past": "terrified",
-  "PastParticiple": "terrified"
+  "present": "terrify",
+  "past": "terrified",
+  "pastParticiple": "terrified"
  },
  {
-  "Present": "test",
-  "Past": "tested",
-  "PastParticiple": "tested"
+  "present": "test",
+  "past": "tested",
+  "pastParticiple": "tested"
  },
  {
-  "Present": "thank",
-  "Past": "thanked",
-  "PastParticiple": "thanked"
+  "present": "thank",
+  "past": "thanked",
+  "pastParticiple": "thanked"
  },
  {
-  "Present": "think",
-  "Past": "thought",
-  "PastParticiple": "thought"
+  "present": "think",
+  "past": "thought",
+  "pastParticiple": "thought"
  },
  {
-  "Present": "thrive",
-  "Past": "throve",
-  "PastParticiple": "thriven"
+  "present": "thrive",
+  "past": "throve",
+  "pastParticiple": "thriven"
  },
  {
-  "Present": "throw",
-  "Past": "threw",
-  "PastParticiple": "thrown"
+  "present": "throw",
+  "past": "threw",
+  "pastParticiple": "thrown"
  },
  {
-  "Present": "thrust",
-  "Past": "thrust",
-  "PastParticiple": "thrust"
+  "present": "thrust",
+  "past": "thrust",
+  "pastParticiple": "thrust"
  },
  {
-  "Present": "thump",
-  "Past": "thumped",
-  "PastParticiple": "thumped"
+  "present": "thump",
+  "past": "thumped",
+  "pastParticiple": "thumped"
  },
  {
-  "Present": "tie",
-  "Past": "tied",
-  "PastParticiple": "tied"
+  "present": "tie",
+  "past": "tied",
+  "pastParticiple": "tied"
  },
  {
-  "Present": "tire",
-  "Past": "tired",
-  "PastParticiple": "tired"
+  "present": "tire",
+  "past": "tired",
+  "pastParticiple": "tired"
  },
  {
-  "Present": "toss",
-  "Past": "tossed",
-  "PastParticiple": "tossed"
+  "present": "toss",
+  "past": "tossed",
+  "pastParticiple": "tossed"
  },
  {
-  "Present": "touch",
-  "Past": "touched",
-  "PastParticiple": "touched"
+  "present": "touch",
+  "past": "touched",
+  "pastParticiple": "touched"
  },
  {
-  "Present": "train",
-  "Past": "trained",
-  "PastParticiple": "trained"
+  "present": "train",
+  "past": "trained",
+  "pastParticiple": "trained"
  },
  {
-  "Present": "trample",
-  "Past": "trampled",
-  "PastParticiple": "trampled"
+  "present": "trample",
+  "past": "trampled",
+  "pastParticiple": "trampled"
  },
  {
-  "Present": "transfer",
-  "Past": "transferred",
-  "PastParticiple": "transferred"
+  "present": "transfer",
+  "past": "transferred",
+  "pastParticiple": "transferred"
  },
  {
-  "Present": "transform",
-  "Past": "transformed",
-  "PastParticiple": "transformed"
+  "present": "transform",
+  "past": "transformed",
+  "pastParticiple": "transformed"
  },
  {
-  "Present": "translate",
-  "Past": "translated",
-  "PastParticiple": "translated"
+  "present": "translate",
+  "past": "translated",
+  "pastParticiple": "translated"
  },
  {
-  "Present": "trap",
-  "Past": "trapped",
-  "PastParticiple": "trapped"
+  "present": "trap",
+  "past": "trapped",
+  "pastParticiple": "trapped"
  },
  {
-  "Present": "travel",
-  "Past": "travelled",
-  "PastParticiple": "travelled"
+  "present": "travel",
+  "past": "travelled",
+  "pastParticiple": "travelled"
  },
  {
-  "Present": "tread",
-  "Past": "trod",
-  "PastParticiple": "trodden"
+  "present": "tread",
+  "past": "trod",
+  "pastParticiple": "trodden"
  },
  {
-  "Present": "treasure",
-  "Past": "treasured",
-  "PastParticiple": "treasured"
+  "present": "treasure",
+  "past": "treasured",
+  "pastParticiple": "treasured"
  },
  {
-  "Present": "treat",
-  "Past": "treated",
-  "PastParticiple": "treated"
+  "present": "treat",
+  "past": "treated",
+  "pastParticiple": "treated"
  },
  {
-  "Present": "tree",
-  "Past": "treed",
-  "PastParticiple": "treed"
+  "present": "tree",
+  "past": "treed",
+  "pastParticiple": "treed"
  },
  {
-  "Present": "tremble",
-  "Past": "trembled",
-  "PastParticiple": "trembled"
+  "present": "tremble",
+  "past": "trembled",
+  "pastParticiple": "trembled"
  },
  {
-  "Present": "triumph",
-  "Past": "triumphed",
-  "PastParticiple": "triumphed"
+  "present": "triumph",
+  "past": "triumphed",
+  "pastParticiple": "triumphed"
  },
  {
-  "Present": "trust",
-  "Past": "trusted",
-  "PastParticiple": "trusted"
+  "present": "trust",
+  "past": "trusted",
+  "pastParticiple": "trusted"
  },
  {
-  "Present": "try",
-  "Past": "tried",
-  "PastParticiple": "tried"
+  "present": "try",
+  "past": "tried",
+  "pastParticiple": "tried"
  },
  {
-  "Present": "turn",
-  "Past": "turned",
-  "PastParticiple": "turned"
+  "present": "turn",
+  "past": "turned",
+  "pastParticiple": "turned"
  },
  {
-  "Present": "type",
-  "Past": "typed",
-  "PastParticiple": "typed"
+  "present": "type",
+  "past": "typed",
+  "pastParticiple": "typed"
  },
  {
-  "Present": "typeset",
-  "Past": "typeset",
-  "PastParticiple": "typeset"
+  "present": "typeset",
+  "past": "typeset",
+  "pastParticiple": "typeset"
  },
  {
-  "Present": "understand",
-  "Past": "understood",
-  "PastParticiple": "understood"
+  "present": "understand",
+  "past": "understood",
+  "pastParticiple": "understood"
  },
  {
-  "Present": "undo",
-  "Past": "undid",
-  "PastParticiple": "undone"
+  "present": "undo",
+  "past": "undid",
+  "pastParticiple": "undone"
  },
  {
-  "Present": "uproot",
-  "Past": "uprooted",
-  "PastParticiple": "uprooted"
+  "present": "uproot",
+  "past": "uprooted",
+  "pastParticiple": "uprooted"
  },
  {
-  "Present": "upset",
-  "Past": "upset",
-  "PastParticiple": "upset"
+  "present": "upset",
+  "past": "upset",
+  "pastParticiple": "upset"
  },
  {
-  "Present": "urge",
-  "Past": "urged",
-  "PastParticiple": "urged"
+  "present": "urge",
+  "past": "urged",
+  "pastParticiple": "urged"
  },
  {
-  "Present": "use",
-  "Past": "used",
-  "PastParticiple": "used"
+  "present": "use",
+  "past": "used",
+  "pastParticiple": "used"
  },
  {
-  "Present": "utter",
-  "Past": "uttered",
-  "PastParticiple": "uttered"
+  "present": "utter",
+  "past": "uttered",
+  "pastParticiple": "uttered"
  },
  {
-  "Present": "value",
-  "Past": "valued",
-  "PastParticiple": "valued"
+  "present": "value",
+  "past": "valued",
+  "pastParticiple": "valued"
  },
  {
-  "Present": "vanish",
-  "Past": "vanished",
-  "PastParticiple": "vanished"
+  "present": "vanish",
+  "past": "vanished",
+  "pastParticiple": "vanished"
  },
  {
-  "Present": "vary",
-  "Past": "varied",
-  "PastParticiple": "varied"
+  "present": "vary",
+  "past": "varied",
+  "pastParticiple": "varied"
  },
  {
-  "Present": "verify",
-  "Past": "verified",
-  "PastParticiple": "verified"
+  "present": "verify",
+  "past": "verified",
+  "pastParticiple": "verified"
  },
  {
-  "Present": "vex",
-  "Past": "vexed",
-  "PastParticiple": "vexed"
+  "present": "vex",
+  "past": "vexed",
+  "pastParticiple": "vexed"
  },
  {
-  "Present": "vie",
-  "Past": "vied",
-  "PastParticiple": "vied"
+  "present": "vie",
+  "past": "vied",
+  "pastParticiple": "vied"
  },
  {
-  "Present": "view",
-  "Past": "viewed",
-  "PastParticiple": "viewed"
+  "present": "view",
+  "past": "viewed",
+  "pastParticiple": "viewed"
  },
  {
-  "Present": "violate",
-  "Past": "violated",
-  "PastParticiple": "violated"
+  "present": "violate",
+  "past": "violated",
+  "pastParticiple": "violated"
  },
  {
-  "Present": "vomit",
-  "Past": "vomited",
-  "PastParticiple": "vomited"
+  "present": "vomit",
+  "past": "vomited",
+  "pastParticiple": "vomited"
  },
  {
-  "Present": "wake",
-  "Past": "woke",
-  "PastParticiple": "woken"
+  "present": "wake",
+  "past": "woke",
+  "pastParticiple": "woken"
  },
  {
-  "Present": "walk",
-  "Past": "walked",
-  "PastParticiple": "walked"
+  "present": "walk",
+  "past": "walked",
+  "pastParticiple": "walked"
  },
  {
-  "Present": "wander",
-  "Past": "wandered",
-  "PastParticiple": "wandered"
+  "present": "wander",
+  "past": "wandered",
+  "pastParticiple": "wandered"
  },
  {
-  "Present": "want",
-  "Past": "wanted",
-  "PastParticiple": "wanted"
+  "present": "want",
+  "past": "wanted",
+  "pastParticiple": "wanted"
  },
  {
-  "Present": "warn",
-  "Past": "warned",
-  "PastParticiple": "warned"
+  "present": "warn",
+  "past": "warned",
+  "pastParticiple": "warned"
  },
  {
-  "Present": "waste",
-  "Past": "wasted",
-  "PastParticiple": "wasted"
+  "present": "waste",
+  "past": "wasted",
+  "pastParticiple": "wasted"
  },
  {
-  "Present": "watch",
-  "Past": "watched",
-  "PastParticiple": "watched"
+  "present": "watch",
+  "past": "watched",
+  "pastParticiple": "watched"
  },
  {
-  "Present": "water",
-  "Past": "watered",
-  "PastParticiple": "watered"
+  "present": "water",
+  "past": "watered",
+  "pastParticiple": "watered"
  },
  {
-  "Present": "wave",
-  "Past": "waved",
-  "PastParticiple": "waved"
+  "present": "wave",
+  "past": "waved",
+  "pastParticiple": "waved"
  },
  {
-  "Present": "wax",
-  "Past": "waxed",
-  "PastParticiple": "waxed"
+  "present": "wax",
+  "past": "waxed",
+  "pastParticiple": "waxed"
  },
  {
-  "Present": "waylay",
-  "Past": "waylaid",
-  "PastParticiple": "waylaid"
+  "present": "waylay",
+  "past": "waylaid",
+  "pastParticiple": "waylaid"
  },
  {
-  "Present": "wear",
-  "Past": "wore",
-  "PastParticiple": "worn"
+  "present": "wear",
+  "past": "wore",
+  "pastParticiple": "worn"
  },
  {
-  "Present": "weave",
-  "Past": "wove",
-  "PastParticiple": "woven"
+  "present": "weave",
+  "past": "wove",
+  "pastParticiple": "woven"
  },
  {
-  "Present": "wed",
-  "Past": "wed",
-  "PastParticiple": "wed"
+  "present": "wed",
+  "past": "wed",
+  "pastParticiple": "wed"
  },
  {
-  "Present": "weep",
-  "Past": "wept",
-  "PastParticiple": "wept"
+  "present": "weep",
+  "past": "wept",
+  "pastParticiple": "wept"
  },
  {
-  "Present": "weigh",
-  "Past": "weighed",
-  "PastParticiple": "weighed"
+  "present": "weigh",
+  "past": "weighed",
+  "pastParticiple": "weighed"
  },
  {
-  "Present": "welcome",
-  "Past": "welcomed",
-  "PastParticiple": "welcomed"
+  "present": "welcome",
+  "past": "welcomed",
+  "pastParticiple": "welcomed"
  },
  {
-  "Present": "wend",
-  "Past": "went",
-  "PastParticiple": "went"
+  "present": "wend",
+  "past": "went",
+  "pastParticiple": "went"
  },
  {
-  "Present": "wet",
-  "Past": "wet",
-  "PastParticiple": "wet"
+  "present": "wet",
+  "past": "wet",
+  "pastParticiple": "wet"
  },
  {
-  "Present": "whip",
-  "Past": "whipped",
-  "PastParticiple": "whipped"
+  "present": "whip",
+  "past": "whipped",
+  "pastParticiple": "whipped"
  },
  {
-  "Present": "whisper",
-  "Past": "whispered",
-  "PastParticiple": "whispered"
+  "present": "whisper",
+  "past": "whispered",
+  "pastParticiple": "whispered"
  },
  {
-  "Present": "win",
-  "Past": "won",
-  "PastParticiple": "won"
+  "present": "win",
+  "past": "won",
+  "pastParticiple": "won"
  },
  {
-  "Present": "wind",
-  "Past": "wound",
-  "PastParticiple": "wound"
+  "present": "wind",
+  "past": "wound",
+  "pastParticiple": "wound"
  },
  {
-  "Present": "wish",
-  "Past": "wished",
-  "PastParticiple": "wished"
+  "present": "wish",
+  "past": "wished",
+  "pastParticiple": "wished"
  },
  {
-  "Present": "withdraw",
-  "Past": "withdrew",
-  "PastParticiple": "withdrawn"
+  "present": "withdraw",
+  "past": "withdrew",
+  "pastParticiple": "withdrawn"
  },
  {
-  "Present": "work",
-  "Past": "worked",
-  "PastParticiple": "worked"
+  "present": "work",
+  "past": "worked",
+  "pastParticiple": "worked"
  },
  {
-  "Present": "worry",
-  "Past": "worried",
-  "PastParticiple": "worried"
+  "present": "worry",
+  "past": "worried",
+  "pastParticiple": "worried"
  },
  {
-  "Present": "worship",
-  "Past": "worshipped",
-  "PastParticiple": "worshipped"
+  "present": "worship",
+  "past": "worshipped",
+  "pastParticiple": "worshipped"
  },
  {
-  "Present": "wring",
-  "Past": "wrung",
-  "PastParticiple": "wrung"
+  "present": "wring",
+  "past": "wrung",
+  "pastParticiple": "wrung"
  },
  {
-  "Present": "write",
-  "Past": "wrote",
-  "PastParticiple": "written"
+  "present": "write",
+  "past": "wrote",
+  "pastParticiple": "written"
  },
  {
-  "Present": "yawn",
-  "Past": "yawned",
-  "PastParticiple": "yawned"
+  "present": "yawn",
+  "past": "yawned",
+  "pastParticiple": "yawned"
  },
  {
-  "Present": "yell",
-  "Past": "yelled",
-  "PastParticiple": "yelled"
+  "present": "yell",
+  "past": "yelled",
+  "pastParticiple": "yelled"
  },
  {
-  "Present": "yield",
-  "Past": "yielded",
-  "PastParticiple": "yielded"
+  "present": "yield",
+  "past": "yielded",
+  "pastParticiple": "yielded"
  },
  {
-  "Present": "zinc",
-  "Past": "zincked",
-  "PastParticiple": "zincked"
+  "present": "zinc",
+  "past": "zincked",
+  "pastParticiple": "zincked"
  },
  {
-  "Present": "zoom",
-  "Past": "zoomed",
-  "PastParticiple": "zoomed"
+  "present": "zoom",
+  "past": "zoomed",
+  "pastParticiple": "zoomed"
  }
 ];
