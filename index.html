@@ -95,7 +95,7 @@
             .catch(error => console.error('Error loading JSON:', error));
 
         function searchVerb() {
-            const input = document.getElementById("verbInput").value.toLowerCase();
+            const input = document.getElementById("verbInput").value.toLowerCase().replace(/\s+/g, "");
             const present = document.getElementById("present");
             const past = document.getElementById("past");
             const pastParticiple = document.getElementById("pastParticiple");
