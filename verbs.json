@@ -1,9 +1,5 @@
 [
- {
-  "present": "abash",
-  "past": "abashed",
-  "pastParticiple": "abashed"
- },
+ {"present": "abash", "past": "abashed","pastParticiple": "abashed"},
  {
   "present": "abate",
   "past": "abated",
