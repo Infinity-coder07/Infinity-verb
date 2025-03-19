@@ -324,6 +324,7 @@
  { "present":"fit", "past":"fit\/fitted", "pastParticiple":"fit\/fitted" },
  { "present":"fix", "past":"fixed", "pastParticiple":"fixed" },
  { "present":"fizz", "past":"fizzed", "pastParticiple":"fizzed" },
+ { "present":"fuck", "past":"fucked", "pastParticiple":"fucked" },
  { "present":"flap", "past":"flapped", "pastParticiple":"flapped" },
  { "present":"flash", "past":"flashed", "pastParticiple":"flashed" },
  { "present":"flee", "past":"fled", "pastParticiple":"fled" },
